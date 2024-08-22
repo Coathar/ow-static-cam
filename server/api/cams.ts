@@ -6,7 +6,7 @@ const storage = createStorage({
   driver: fsLiteDriver({ base: "./server/presets" }),
 });
 
-export default defineEventHandler(async (event) => {
+export default defineEventHandler(async () => {
   const keys = await storage.getKeys();
   const presets = (await storage.getItems<CameraPreset>(keys)).map(
     (x) => x.value,
