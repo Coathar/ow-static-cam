@@ -70,7 +70,7 @@ async function exportScript() {
       </li>
       <li class="pb-2">Move yourself to spectator and start the game</li>
       <li class="pb-2">
-        Once in game you can spectate the Torbjorn bot and save cameras using
+        Once in game you can spectate the Torbjörn bot and save cameras using
         Ctrl + 1-9. Pressing your "Move Fast" hotkey will move the bot to the
         next camera position.
         <ul class="mt-2 list-disc space-y-1 ps-5">
@@ -91,8 +91,7 @@ async function exportScript() {
             Zoom ticks are estimated based on 5% change at max 70 FOV.
           </li>
           <li class="pb-2">
-            Should the bot die you can still set your camera while spectating
-            it.
+            If the bot dies you can still save the camera while spectating it.
           </li>
         </ul>
       </li>
