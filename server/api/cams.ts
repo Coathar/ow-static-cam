@@ -8,6 +8,7 @@ const storage = createStorage({
 
 export default defineEventHandler(async () => {
   const keys = await storage.getKeys();
+  console.log(keys);
   const presets = (await storage.getItems<CameraPreset>(keys)).map(
     (x) => x.value,
   );
