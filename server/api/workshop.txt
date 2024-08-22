@@ -81,7 +81,7 @@ rule("Display Help Text")
         Ongoing - Global;
     }
 
-    // Action count: 4
+    // Action count: 3
     actions
     {
         Create HUD Text(Null, Null, Null, Custom String("Press Move Fast (default Shift) to setup next camera"), Right, 1, Color(White), Color(White), Color(White), Visible To Sort Order String and Color, Visible Always);
@@ -106,7 +106,7 @@ rule("Increment camera index")
     // Action count: 11
     actions
     {
-        If(Compare(Global Variable(currentIndex), <, 8));
+        If(And(Compare(Global Variable(currentIndex), <, 8), Compare(Global Variable(currentIndex), <, Subtract(Count Of(Global Variable(cameraFacings)), 1))));
             Modify Global Variable(currentIndex, Add, 1);
         Else;
             Set Global Variable(currentIndex, 0);
