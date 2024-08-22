@@ -84,9 +84,8 @@ rule("Display Help Text")
     // Action count: 4
     actions
     {
-        Create HUD Text(Null, Null, Null, Custom String("Press Slow Down (default Shift) to setup next camera"), Right, 1, Color(White), Color(White), Color(White), Visible To Sort Order String and Color, Visible Always);
+        Create HUD Text(Null, Null, Null, Custom String("Press Move Fast (default Shift) to setup next camera"), Right, 1, Color(White), Color(White), Color(White), Visible To Sort Order String and Color, Visible Always);
         Create HUD Text(Null, Null, Null, Custom String("{0}{1}", Custom String("Current Camera: "), Add(Global Variable(currentIndex), 1)), Right, 1, Color(White), Color(White), Color(White), Visible To Sort Order String and Color, Visible Always);
-        Create HUD Text(Null, Null, Null, Custom String("{0}{1}", Custom String("Facing: "), Facing Direction Of(Host Player)), Right, 1, Color(White), Color(White), Color(White), Visible To Sort Order String and Color, Visible Always);
         Create HUD Text(Null, Null, Null, Custom String("{0}{1}{2}", Custom String("Approx. "), Value In Array(Global Variable(cameraFOVs), Global Variable(currentIndex)), Custom String(" zoom ticks")), Right, 1, Color(White), Color(White), Color(White), Visible To Sort Order String and Color, Visible Always);
     }
 }

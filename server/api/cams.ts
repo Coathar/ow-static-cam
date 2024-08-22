@@ -1,24 +1,24 @@
 import { readFile, opendir } from "node:fs/promises";
 import path from "node:path";
 import { CameraPreset } from "~/CameraPreset";
+import { createStorage } from "unstorage";
+import fsLiteDriver from "unstorage/drivers/fs-lite";
+
+const storage = createStorage({
+  driver: fsLiteDriver({ base: "./server/presets" }),
+});
 
 export default defineEventHandler(async (event) => {
-  const target = path.join(process.cwd(), "public", "presets");
-  const files = await opendir(target);
-  const presets: CameraPreset[] = [];
+  console.log(await storage.getKeys());
+  const keys = await storage.getKeys();
+  const presets = (await storage.getItems<CameraPreset>(keys)).map(
+    (x) => x.value,
+  );
 
-  for await (const file of files) {
-    if (file.isFile() && file.name.endsWith(".json")) {
-      const preset = JSON.parse(
-        await readFile(path.join(target, file.name), "utf-8"),
-      ) as CameraPreset;
-
-      preset.mapCameras = preset.mapCameras?.sort((a, b) =>
-        a.map.localeCompare(b.map),
-      );
-
-      presets.push(preset);
-    }
+  for (const preset of presets) {
+    preset.mapCameras = preset.mapCameras?.sort((a, b) =>
+      a.map.localeCompare(b.map),
+    );
   }
 
   return presets;
