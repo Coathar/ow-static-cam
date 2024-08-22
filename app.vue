@@ -83,7 +83,7 @@ async function exportScript() {
             Should the bot die you can still set your camera while spectating
             it.
           </li>
-          <li class="pb-2">Test.</li>
+          <li class="pb-2">Test Test.</li>
         </ul>
       </li>
     </ol>
