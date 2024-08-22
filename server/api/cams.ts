@@ -3,7 +3,7 @@ import path from "node:path";
 import { CameraPreset } from "~/CameraPreset";
 
 export default defineEventHandler(async (event) => {
-  const target = path.join(process.cwd(), "server", "presets");
+  const target = path.join(process.cwd(), "Cameras", "presets");
   const files = await opendir(target);
   const presets: CameraPreset[] = [];
 
