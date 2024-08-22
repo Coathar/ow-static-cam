@@ -5,84 +5,30 @@
       "map": "King's Row",
       "cameras": [
         {
-          "positionX": 4.40039,
-          "positionY": 3.12207,
-          "positionZ": 9.64453,
-          "rotationX": -0.949507,
-          "rotationY": -0.144264,
-          "rotationZ": 0.278612,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 3.5498,
-          "positionY": 11.4785,
-          "positionZ": -41.2734,
-          "rotationX": -0.610093,
-          "rotationY": -0.262367,
-          "rotationZ": 0.74763,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -28.6748,
-          "positionY": 3.38867,
-          "positionZ": -42.668,
-          "rotationX": 0.628946,
-          "rotationY": -0.0353701,
-          "rotationZ": 0.776644,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -57.1494,
-          "positionY": 50.5449,
-          "positionZ": -30.1992,
-          "rotationX": -0.00537457,
+          "positionX": -4.97168,
+          "positionY": 44.002,
+          "positionZ": -19.4434,
+          "rotationX": 0.0165643,
           "rotationY": -0.999848,
-          "rotationZ": -0.0165997,
+          "rotationZ": -0.00548268,
           "fov": 70.000000
         },
         {
-          "positionX": -77.1553,
-          "positionY": 2.58203,
-          "positionZ": 11.2207,
-          "rotationX": 0.447286,
-          "rotationY": 0.106982,
-          "rotationZ": 0.887969,
+          "positionX": -59.4805,
+          "positionY": 52.873,
+          "positionZ": -23.2979,
+          "rotationX": -0.00729478,
+          "rotationY": -0.999848,
+          "rotationZ": -0.01585,
           "fov": 70.000000
         },
         {
-          "positionX": -73.127,
-          "positionY": -1.49121,
-          "positionZ": -53.1523,
-          "rotationX": -0.919441,
-          "rotationY": -0.020899,
-          "rotationZ": -0.392672,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -132.949,
-          "positionY": 9.06934,
-          "positionZ": 36.1348,
-          "rotationX": -0.8513,
-          "rotationY": 0.0604595,
-          "rotationZ": -0.521184,
-          "fov": 51.456429
-        },
-        {
-          "positionX": -134.778,
-          "positionY": -8.27539,
-          "positionZ": -3.45605,
-          "rotationX": 0.0243024,
-          "rotationY": -0.344101,
-          "rotationZ": 0.938618,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -5.5293,
-          "positionY": 26.3916,
-          "positionZ": -8.78223,
-          "rotationX": -0.582907,
-          "rotationY": 0.619154,
-          "rotationZ": -0.526182,
+          "positionX": -129.7,
+          "positionY": 15.0557,
+          "positionZ": 21.416,
+          "rotationX": -0.00287082,
+          "rotationY": -0.999848,
+          "rotationZ": -0.0172103,
           "fov": 70.000000
         }
       ]
@@ -91,84 +37,39 @@
       "map": "Watchpoint: Gibraltar",
       "cameras": [
         {
-          "positionX": -19.0801,
-          "positionY": 6.79492,
-          "positionZ": -157.452,
-          "rotationX": 0.923634,
-          "rotationY": -0.125645,
-          "rotationZ": 0.362096,
+          "positionX": 47.3125,
+          "positionY": 36.25,
+          "positionZ": -117.743,
+          "rotationX": -0.0174015,
+          "rotationY": -0.999848,
+          "rotationZ": 0.00127355,
           "fov": 70.000000
         },
         {
-          "positionX": 52.3359,
-          "positionY": 9.18359,
-          "positionZ": -151.351,
-          "rotationX": -0.741008,
-          "rotationY": -0.127452,
-          "rotationZ": 0.65929,
+          "positionX": 55.8486,
+          "positionY": 29.4844,
+          "positionZ": -42.1289,
+          "rotationX": -0.0123235,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0123519,
           "fov": 70.000000
         },
         {
-          "positionX": 45.0293,
-          "positionY": 9.15527,
-          "positionZ": -94.6904,
-          "rotationX": -0.166755,
-          "rotationY": -0.354343,
-          "rotationZ": -0.920127,
+          "positionX": 75.6084,
+          "positionY": 47.5752,
+          "positionZ": 11.6885,
+          "rotationX": -0.0161719,
+          "rotationY": -0.999848,
+          "rotationZ": 0.00655016,
           "fov": 70.000000
         },
         {
-          "positionX": -79.498,
-          "positionY": 14.4043,
-          "positionZ": -21.4727,
-          "rotationX": -0.783944,
-          "rotationY": -0.170584,
-          "rotationZ": -0.596937,
-          "fov": 39.816002
-        },
-        {
-          "positionX": 4.84668,
-          "positionY": 3.82324,
-          "positionZ": -80.2607,
-          "rotationX": -0.209897,
-          "rotationY": 0.0955361,
-          "rotationZ": 0.973045,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -1.26367,
-          "positionY": 9.36523,
-          "positionZ": -105.246,
-          "rotationX": 0.5904,
-          "rotationY": -0.807017,
-          "rotationZ": -0.0122848,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 135.258,
-          "positionY": -4.87109,
-          "positionZ": -161.42,
-          "rotationX": 0.99845,
-          "rotationY": -0.0547166,
-          "rotationZ": -0.0101473,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 77.5977,
-          "positionY": 3.02246,
-          "positionZ": -58.7549,
-          "rotationX": 0.975808,
-          "rotationY": -0.18106,
-          "rotationZ": 0.12254,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 77.1113,
-          "positionY": 0.955078,
-          "positionZ": 17.2178,
-          "rotationX": -0.0317752,
-          "rotationY": 0.312771,
-          "rotationZ": -0.949297,
+          "positionX": 63.1572,
+          "positionY": 21.2422,
+          "positionZ": -110.729,
+          "rotationX": -0.786094,
+          "rotationY": -0.607112,
+          "rotationZ": -0.116067,
           "fov": 70.000000
         }
       ]
@@ -177,84 +78,39 @@
       "map": "Numbani",
       "cameras": [
         {
-          "positionX": -21.2529,
-          "positionY": 9.78027,
-          "positionZ": -3.55176,
-          "rotationX": -0.896066,
-          "rotationY": -0.10641,
-          "rotationZ": 0.430979,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 14.5898,
-          "positionY": 4.25,
-          "positionZ": -13.3438,
-          "rotationX": -0.534283,
-          "rotationY": -0.1066,
-          "rotationZ": 0.838557,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 81.5322,
-          "positionY": 12.4766,
-          "positionZ": -20.749,
-          "rotationX": -0.0186501,
-          "rotationY": -0.186149,
-          "rotationZ": 0.982344,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 121.128,
-          "positionY": 48.5117,
-          "positionZ": 12.2842,
-          "rotationX": -0.000207424,
+          "positionX": 71.9961,
+          "positionY": 57.5957,
+          "positionZ": 1.80566,
+          "rotationX": -0.000590391,
           "rotationY": -0.999848,
-          "rotationZ": 0.0174469,
+          "rotationZ": 0.0174381,
           "fov": 70.000000
         },
         {
-          "positionX": 70.2471,
-          "positionY": 26.1191,
-          "positionZ": -38.8037,
-          "rotationX": -0.97989,
-          "rotationY": -0.0515572,
-          "rotationZ": -0.192765,
+          "positionX": 123.879,
+          "positionY": 56.2871,
+          "positionZ": 12.3857,
+          "rotationX": 0.00234652,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0172896,
           "fov": 70.000000
         },
         {
-          "positionX": 104.982,
-          "positionY": 8.28906,
-          "positionZ": 18.4541,
-          "rotationX": 0.878267,
-          "rotationY": 0.0875166,
-          "rotationZ": 0.470093,
+          "positionX": 167.418,
+          "positionY": 40.1631,
+          "positionZ": 1.67871,
+          "rotationX": 0.00667091,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0161225,
           "fov": 70.000000
         },
         {
-          "positionX": 244.373,
-          "positionY": 1.19434,
-          "positionZ": 22.7197,
-          "rotationX": -0.99639,
-          "rotationY": 0.0848421,
-          "rotationZ": 0.00305694,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 130.629,
-          "positionY": -2.30469,
-          "positionZ": -7.08105,
-          "rotationX": -0.549177,
-          "rotationY": 0.102024,
-          "rotationZ": -0.829455,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 101.854,
-          "positionY": -0.519531,
-          "positionZ": 9.99023,
-          "rotationX": 0.906676,
-          "rotationY": -0.183888,
-          "rotationZ": 0.379638,
+          "positionX": 184.039,
+          "positionY": 35.3535,
+          "positionZ": 16.8848,
+          "rotationX": -0.0121301,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0125418,
           "fov": 70.000000
         }
       ]
@@ -263,84 +119,30 @@
       "map": "Hollywood",
       "cameras": [
         {
-          "positionX": -21.7236,
-          "positionY": 8.79004,
-          "positionZ": 49.3887,
-          "rotationX": 0.80553,
-          "rotationY": -0.247349,
-          "rotationZ": 0.538461,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -25.7217,
-          "positionY": 14.5225,
-          "positionZ": 31.9336,
-          "rotationX": 0.249988,
-          "rotationY": -0.389493,
-          "rotationZ": -0.886454,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 16.8213,
-          "positionY": 3.21289,
-          "positionZ": 14.5146,
-          "rotationX": -0.823349,
-          "rotationY": 0.0104501,
-          "rotationZ": -0.567439,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 3.60645,
-          "positionY": 48.3203,
-          "positionZ": -39.8613,
-          "rotationX": 0.0162638,
+          "positionX": -13.1006,
+          "positionY": 52.7051,
+          "positionZ": 26.1318,
+          "rotationX": 0.0165638,
           "rotationY": -0.999848,
-          "rotationZ": 0.00631848,
+          "rotationZ": -0.00548426,
           "fov": 70.000000
         },
         {
-          "positionX": -6.20313,
-          "positionY": 4.47461,
-          "positionZ": -100.14,
-          "rotationX": 0.39602,
-          "rotationY": 0.284683,
-          "rotationZ": -0.872997,
+          "positionX": -1.58887,
+          "positionY": 58.542,
+          "positionZ": -33.4473,
+          "rotationX": 0.0153586,
+          "rotationY": -0.999848,
+          "rotationZ": 0.00827951,
           "fov": 70.000000
         },
         {
-          "positionX": 2.14063,
-          "positionY": 34.7676,
-          "positionZ": -52.7861,
-          "rotationX": 0.0159779,
-          "rotationY": 0.552777,
-          "rotationZ": -0.833176,
-          "fov": 44.117455
-        },
-        {
-          "positionX": -7.5918,
-          "positionY": 13.7744,
-          "positionZ": -91.3613,
-          "rotationX": -0.764159,
-          "rotationY": -0.400766,
-          "rotationZ": 0.505418,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -32.1465,
-          "positionY": 5.97949,
-          "positionZ": -153.785,
-          "rotationX": 0.312992,
-          "rotationY": 0.0302915,
-          "rotationZ": -0.949273,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -50.2686,
-          "positionY": 12.2197,
-          "positionZ": -112.362,
-          "rotationX": 0.849001,
-          "rotationY": -0.159331,
-          "rotationZ": 0.503796,
+          "positionX": -28.4072,
+          "positionY": 34.5371,
+          "positionZ": -129.842,
+          "rotationX": 0.0169596,
+          "rotationY": -0.999848,
+          "rotationZ": -0.00409985,
           "fov": 70.000000
         }
       ]
@@ -349,84 +151,30 @@
       "map": "Dorado",
       "cameras": [
         {
-          "positionX": -30.0146,
-          "positionY": 0.163086,
-          "positionZ": -12.3037,
-          "rotationX": 0.858411,
-          "rotationY": 0.0114087,
-          "rotationZ": -0.512835,
+          "positionX": 46.5283,
+          "positionY": 71.8066,
+          "positionZ": -9.09277,
+          "rotationX": 0.00300933,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0171866,
           "fov": 70.000000
         },
         {
-          "positionX": 166.089,
-          "positionY": 11.6094,
-          "positionZ": -9.875,
-          "rotationX": -0.979215,
-          "rotationY": -0.0254038,
-          "rotationZ": 0.201228,
+          "positionX": 92.7451,
+          "positionY": 67.415,
+          "positionZ": 4.86328,
+          "rotationX": -0.0103844,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0140214,
           "fov": 70.000000
         },
         {
-          "positionX": 237.404,
-          "positionY": 15.5986,
-          "positionZ": 51.5117,
-          "rotationX": -0.943283,
-          "rotationY": -0.0315372,
-          "rotationZ": 0.330489,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 39.8066,
-          "positionY": 3.17969,
-          "positionZ": 11.4844,
-          "rotationX": -0.275827,
-          "rotationY": -0.22415,
-          "rotationZ": 0.934707,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 34.8467,
-          "positionY": 23.8467,
-          "positionZ": -37.4336,
-          "rotationX": -0.0520432,
-          "rotationY": 0.487299,
-          "rotationZ": 0.871683,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 185.133,
-          "positionY": 18.2627,
-          "positionZ": 67.9346,
-          "rotationX": -0.964818,
-          "rotationY": -0.0528019,
-          "rotationZ": -0.257564,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 119.838,
-          "positionY": 12.1963,
-          "positionZ": -13.0381,
-          "rotationX": 0.61,
-          "rotationY": -0.166426,
-          "rotationZ": -0.774728,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 73.5664,
-          "positionY": 9.41895,
-          "positionZ": -3.56934,
-          "rotationX": -0.549239,
-          "rotationY": 0.00805331,
-          "rotationZ": -0.835627,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 149.008,
-          "positionY": 11.335,
-          "positionZ": 7.62207,
-          "rotationX": -0.829504,
-          "rotationY": 0.022145,
-          "rotationZ": -0.558061,
+          "positionX": 163.086,
+          "positionY": 52.1963,
+          "positionZ": 44.3779,
+          "rotationX": -0.00460524,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0168294,
           "fov": 70.000000
         }
       ]
@@ -435,84 +183,30 @@
       "map": "Nepal",
       "cameras": [
         {
-          "positionX": -181.565,
-          "positionY": -19.9658,
-          "positionZ": -0.0449219,
-          "rotationX": 0.0174481,
+          "positionX": -180.138,
+          "positionY": -21.6973,
+          "positionZ": -0.0263672,
+          "rotationX": 0.0174479,
           "rotationY": -0.999848,
-          "rotationZ": 0.0000301115,
+          "rotationZ": 0.0000886563,
           "fov": 70.000000
         },
         {
-          "positionX": -45.833,
-          "positionY": 88.8525,
-          "positionZ": -0.0224609,
+          "positionX": -50.5488,
+          "positionY": 86.7119,
+          "positionZ": -0.401367,
+          "rotationX": 0.0174475,
+          "rotationY": -0.999848,
+          "rotationZ": 0.000145534,
+          "fov": 70.000000
+        },
+        {
+          "positionX": 82.7256,
+          "positionY": 180.36,
+          "positionZ": -0.144531,
           "rotationX": 0.017448,
           "rotationY": -0.999848,
-          "rotationZ": 0.0000585467,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 56.8525,
-          "positionY": 131.197,
-          "positionZ": 0.0595703,
-          "rotationX": -0.9986,
-          "rotationY": -0.0528976,
-          "rotationZ": -0.000670254,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -197.232,
-          "positionY": -95.8447,
-          "positionZ": -53.2744,
-          "rotationX": -0.364505,
-          "rotationY": -0.190669,
-          "rotationZ": -0.911472,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -79.875,
-          "positionY": 16.8613,
-          "positionZ": 6.2666,
-          "rotationX": 0.764838,
-          "rotationY": 0.0543337,
-          "rotationZ": -0.641928,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 76.7363,
-          "positionY": 124.556,
-          "positionZ": -9.73047,
-          "rotationX": -0.148036,
-          "rotationY": -0.372563,
-          "rotationZ": 0.916123,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -211.809,
-          "positionY": -87.0234,
-          "positionZ": 1.68262,
-          "rotationX": 0.00878688,
-          "rotationY": -0.438875,
-          "rotationZ": 0.898505,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -66.4717,
-          "positionY": 12.4961,
-          "positionZ": -32.3574,
-          "rotationX": 0.727655,
-          "rotationY": -0.0204197,
-          "rotationZ": 0.685639,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 72.7764,
-          "positionY": 142.884,
-          "positionZ": -0.0996094,
-          "rotationX": -0.913596,
-          "rotationY": -0.0377653,
-          "rotationZ": 0.404865,
+          "rotationZ": 0.0000635646,
           "fov": 70.000000
         }
       ]
@@ -521,85 +215,31 @@
       "map": "Route 66",
       "cameras": [
         {
-          "positionX": 42.1826,
-          "positionY": 5.66699,
-          "positionZ": 87.9775,
-          "rotationX": -0.294194,
-          "rotationY": -0.291752,
-          "rotationZ": -0.910127,
+          "positionX": 45.7324,
+          "positionY": 56.9971,
+          "positionZ": 12.5576,
+          "rotationX": 0.016594,
+          "rotationY": -0.999848,
+          "rotationZ": -0.00539208,
           "fov": 70.000000
         },
         {
-          "positionX": 68.1055,
-          "positionY": 10.9199,
-          "positionZ": 48.3223,
-          "rotationX": -0.870355,
-          "rotationY": -0.256812,
-          "rotationZ": 0.420155,
+          "positionX": -11.6104,
+          "positionY": 67.9238,
+          "positionZ": -28.9502,
+          "rotationX": -0.000851123,
+          "rotationY": -0.999848,
+          "rotationZ": -0.0174273,
           "fov": 70.000000
         },
         {
-          "positionX": 17.9092,
-          "positionY": 17.6641,
-          "positionZ": -11.5283,
-          "rotationX": 0.899806,
-          "rotationY": -0.339146,
-          "rotationZ": 0.274461,
+          "positionX": -87.5508,
+          "positionY": 25.2246,
+          "positionZ": -3.875,
+          "rotationX": 0.0165201,
+          "rotationY": -0.999848,
+          "rotationZ": -0.00561431,
           "fov": 70.000000
-        },
-        {
-          "positionX": 52.4258,
-          "positionY": 2.34473,
-          "positionZ": 65.3486,
-          "rotationX": -0.948002,
-          "rotationY": 0.0418846,
-          "rotationZ": -0.315498,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 45.5273,
-          "positionY": 2.03125,
-          "positionZ": 18.2568,
-          "rotationX": -0.351218,
-          "rotationY": 0.0977309,
-          "rotationZ": 0.931179,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 7.2998,
-          "positionY": 2.24707,
-          "positionZ": -17.1758,
-          "rotationX": -0.572092,
-          "rotationY": -0.0953453,
-          "rotationZ": -0.814628,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -32.5859,
-          "positionY": 4.30566,
-          "positionZ": -16.9092,
-          "rotationX": 0.804828,
-          "rotationY": 0.289092,
-          "rotationZ": -0.518342,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -18.0176,
-          "positionY": 4.46973,
-          "positionZ": -41.9453,
-          "rotationX": 0.974814,
-          "rotationY": -0.122982,
-          "rotationZ": -0.186045,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 108.316,
-          "positionY": 7.62793,
-          "positionZ": 137.8,
-          "rotationX": 0.032673,
-          "rotationY": 0.432229,
-          "rotationZ": -0.901171,
-          "fov": 25.094009
         }
       ]
     },
@@ -607,84 +247,39 @@
       "map": "Lijiang Tower",
       "cameras": [
         {
-          "positionX": 1.11035,
-          "positionY": 68.8545,
-          "positionZ": -48.5488,
-          "rotationX": -0.0000736036,
-          "rotationY": -0.999848,
-          "rotationZ": 0.0174479,
+          "positionX": 1.13965,
+          "positionY": 72.5664,
+          "positionZ": -39.8564,
+          "rotationX": -0.000140368,
+          "rotationY": -0.999844,
+          "rotationZ": 0.0176393,
           "fov": 70.000000
         },
         {
-          "positionX": -0.0341797,
-          "positionY": 172.941,
-          "positionZ": 141.465,
-          "rotationX": 0.000045166,
+          "positionX": -0.00390625,
+          "positionY": 160.909,
+          "positionZ": 145.59,
+          "rotationX": -0.000045166,
           "rotationY": -0.999848,
           "rotationZ": 0.017448,
           "fov": 70.000000
         },
         {
-          "positionX": 11.1064,
-          "positionY": 271.09,
-          "positionZ": 334.429,
-          "rotationX": 0.823658,
-          "rotationY": -0.227699,
-          "rotationZ": 0.519366,
+          "positionX": -0.0791016,
+          "positionY": 354.86,
+          "positionZ": 296.282,
+          "rotationX": 0.0000936759,
+          "rotationY": -0.999848,
+          "rotationZ": -0.0174478,
           "fov": 70.000000
         },
         {
-          "positionX": -50.7617,
-          "positionY": 3.21875,
-          "positionZ": -25.4229,
-          "rotationX": 0.752756,
-          "rotationY": -0.0693569,
-          "rotationZ": -0.654636,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 52.6963,
-          "positionY": 96.5098,
-          "positionZ": 141.469,
-          "rotationX": -0.348959,
-          "rotationY": -0.110603,
-          "rotationZ": -0.930589,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -13.1367,
-          "positionY": 270.946,
-          "positionZ": 337.602,
-          "rotationX": 0.198393,
-          "rotationY": -0.295601,
-          "rotationZ": -0.934484,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 53.9639,
-          "positionY": 3.94141,
-          "positionZ": -29.9063,
-          "rotationX": -0.981246,
-          "rotationY": -0.184548,
-          "rotationZ": 0.0556581,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -10.7783,
-          "positionY": 91.0107,
-          "positionZ": 167.524,
-          "rotationX": 0.971423,
-          "rotationY": -0.166426,
-          "rotationZ": -0.16923,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -0.0458984,
-          "positionY": 279.031,
-          "positionZ": 311.511,
-          "rotationX": 0.00191658,
-          "rotationY": -0.030579,
-          "rotationZ": 0.99953,
+          "positionX": 0.0908203,
+          "positionY": 160.588,
+          "positionZ": 137.963,
+          "rotationX": -0.0000384747,
+          "rotationY": -0.999848,
+          "rotationZ": 0.017448,
           "fov": 70.000000
         }
       ]
@@ -693,84 +288,30 @@
       "map": "Ilios",
       "cameras": [
         {
-          "positionX": -212.434,
-          "positionY": 69.1641,
-          "positionZ": -20.5664,
-          "rotationX": 0.0122176,
+          "positionX": -208.371,
+          "positionY": 70.7168,
+          "positionZ": -16.5449,
+          "rotationX": 0.0122938,
           "rotationY": -0.999848,
-          "rotationZ": 0.0124566,
+          "rotationZ": 0.0123814,
           "fov": 70.000000
         },
         {
-          "positionX": 338.28,
-          "positionY": 58.9287,
-          "positionZ": -43.4189,
-          "rotationX": -0.0161631,
+          "positionX": 330.678,
+          "positionY": 40.8867,
+          "positionZ": -40.1104,
+          "rotationX": -0.0161135,
           "rotationY": -0.999848,
-          "rotationZ": 0.00657186,
+          "rotationZ": 0.00669255,
           "fov": 70.000000
         },
         {
-          "positionX": 28.4268,
-          "positionY": 138.948,
-          "positionZ": -163.342,
-          "rotationX": -0.000026765,
+          "positionX": 28.9834,
+          "positionY": 140.032,
+          "positionZ": -155.089,
+          "rotationX": -0.000103714,
           "rotationY": -0.999848,
-          "rotationZ": 0.0174481,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -185.721,
-          "positionY": 2.09375,
-          "positionZ": -19.2178,
-          "rotationX": -0.349253,
-          "rotationY": -0.303925,
-          "rotationZ": -0.88637,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 328.095,
-          "positionY": -22.5664,
-          "positionZ": -21.9756,
-          "rotationX": -0.0504934,
-          "rotationY": -0.183511,
-          "rotationZ": 0.98172,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 106.091,
-          "positionY": 61.8398,
-          "positionZ": -173.918,
-          "rotationX": -0.167838,
-          "rotationY": 0.11108,
-          "rotationZ": -0.979537,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -229.565,
-          "positionY": 0.0732422,
-          "positionZ": -33.9238,
-          "rotationX": -0.972967,
-          "rotationY": -0.1025,
-          "rotationZ": 0.206954,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 339.534,
-          "positionY": -23.6201,
-          "positionZ": 9.44922,
-          "rotationX": -0.883194,
-          "rotationY": 0.134011,
-          "rotationZ": -0.449455,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 101.645,
-          "positionY": 61.1406,
-          "positionZ": -151.392,
-          "rotationX": -0.552032,
-          "rotationY": -0.190481,
-          "rotationZ": 0.811775,
+          "rotationZ": 0.0174478,
           "fov": 70.000000
         }
       ]
@@ -779,84 +320,39 @@
       "map": "Eichenwalde",
       "cameras": [
         {
-          "positionX": -19.0225,
-          "positionY": 6.5752,
-          "positionZ": -30.7734,
-          "rotationX": 0.734175,
-          "rotationY": -0.183417,
-          "rotationZ": 0.653716,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 32.875,
-          "positionY": 8.66602,
-          "positionZ": -61.4941,
-          "rotationX": -0.969391,
-          "rotationY": -0.142841,
-          "rotationZ": 0.199693,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -16.1943,
-          "positionY": 7.46191,
-          "positionZ": 24.8047,
-          "rotationX": 0.11729,
-          "rotationY": -0.352998,
-          "rotationZ": -0.928243,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 55.332,
-          "positionY": 63.1777,
-          "positionZ": -79.5479,
-          "rotationX": 0.00384901,
+          "positionX": 7.2793,
+          "positionY": 55.8057,
+          "positionZ": -54.249,
+          "rotationX": 0.0169627,
           "rotationY": -0.999848,
-          "rotationZ": 0.0170183,
+          "rotationZ": 0.00408684,
           "fov": 70.000000
         },
         {
-          "positionX": -52.4287,
-          "positionY": 22.6045,
-          "positionZ": -77.5732,
-          "rotationX": -0.876698,
-          "rotationY": -0.0535678,
-          "rotationZ": 0.478049,
-          "fov": 46.439426
-        },
-        {
-          "positionX": 95.582,
-          "positionY": 15.877,
-          "positionZ": -17.1064,
-          "rotationX": 0.558529,
-          "rotationY": -0.0229118,
-          "rotationZ": -0.829169,
+          "positionX": 49.2383,
+          "positionY": 62.3145,
+          "positionZ": -77.7764,
+          "rotationX": 0.00125353,
+          "rotationY": -0.999848,
+          "rotationZ": 0.017403,
           "fov": 70.000000
         },
         {
-          "positionX": 22.1768,
-          "positionY": 32.0273,
-          "positionZ": 39.9033,
-          "rotationX": 0.5366,
-          "rotationY": 0.00786157,
-          "rotationZ": 0.8438,
-          "fov": 48.883606
-        },
-        {
-          "positionX": 68.25,
-          "positionY": -1.94531,
-          "positionZ": -79.2549,
-          "rotationX": 0.959093,
-          "rotationY": -0.113842,
-          "rotationZ": -0.25919,
+          "positionX": 120.042,
+          "positionY": 23.793,
+          "positionZ": -35.1777,
+          "rotationX": -0.0168316,
+          "rotationY": -0.999848,
+          "rotationZ": 0.00459717,
           "fov": 70.000000
         },
         {
-          "positionX": 123.908,
-          "positionY": 11.8096,
-          "positionZ": -26.3037,
-          "rotationX": 0.202841,
-          "rotationY": -0.0884716,
-          "rotationZ": 0.975207,
+          "positionX": 110.192,
+          "positionY": 32.9688,
+          "positionZ": -41.4082,
+          "rotationX": -0.0103844,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0140214,
           "fov": 70.000000
         }
       ]
@@ -865,256 +361,30 @@
       "map": "Oasis",
       "cameras": [
         {
-          "positionX": 148.522,
-          "positionY": 82.1299,
-          "positionZ": 251.854,
-          "rotationX": -0.0138214,
-          "rotationY": -0.999814,
-          "rotationZ": -0.0134269,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 126.419,
-          "positionY": 76.375,
-          "positionZ": -232.806,
-          "rotationX": -0.0126486,
-          "rotationY": -0.999841,
-          "rotationZ": 0.0125688,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -164.018,
-          "positionY": 17.5713,
-          "positionZ": 0.0634766,
-          "rotationX": 0.999168,
-          "rotationY": -0.0404477,
-          "rotationZ": 0.00517279,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 120.427,
-          "positionY": 1.1416,
-          "positionZ": 224.417,
-          "rotationX": -0.701977,
-          "rotationY": -0.0256914,
-          "rotationZ": -0.711736,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 217.784,
-          "positionY": 8.73145,
-          "positionZ": -193.595,
-          "rotationX": 0.980366,
-          "rotationY": -0.0947726,
-          "rotationZ": 0.172919,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -183.645,
-          "positionY": 10.3125,
-          "positionZ": -0.0107422,
-          "rotationX": -0.999986,
-          "rotationY": -0.00508129,
-          "rotationZ": 0.00162971,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 214.389,
-          "positionY": 8.30566,
-          "positionZ": 159.102,
-          "rotationX": -0.783736,
-          "rotationY": -0.209643,
-          "rotationZ": 0.584643,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 168.655,
-          "positionY": 6.15625,
-          "positionZ": -250.556,
-          "rotationX": 0.997408,
-          "rotationY": -0.00115049,
-          "rotationZ": 0.071939,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -175.512,
-          "positionY": 18.1338,
-          "positionZ": 28.4805,
-          "rotationX": 0.839593,
-          "rotationY": 0.0148599,
-          "rotationZ": 0.543013,
-          "fov": 70.000000
-        }
-      ]
-    },
-    {
-      "map": "Estádio das Rãs",
-      "cameras": [
-        {
-          "positionX": -0.0175781,
-          "positionY": 57.6631,
-          "positionZ": -4.54395,
-          "rotationX": -0.0000353222,
-          "rotationY": -0.999846,
-          "rotationZ": -0.0175439,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -32.2588,
-          "positionY": 8.2002,
-          "positionZ": 22.4014,
-          "rotationX": 0.572859,
-          "rotationY": -0.22471,
-          "rotationZ": -0.78825,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 32.4902,
-          "positionY": 8.94238,
-          "positionZ": 21.6436,
-          "rotationX": -0.525348,
-          "rotationY": -0.245583,
-          "rotationZ": -0.814676,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -41.6797,
-          "positionY": 7.77832,
-          "positionZ": 7.07617,
-          "rotationX": 0.653006,
-          "rotationY": -0.437754,
-          "rotationZ": -0.618024,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 41.6777,
-          "positionY": 7.62402,
-          "positionZ": 7.2041,
-          "rotationX": -0.711525,
-          "rotationY": -0.424693,
-          "rotationZ": -0.559793,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -0.342773,
-          "positionY": 13.5576,
-          "positionZ": 22.4619,
-          "rotationX": 0.00901574,
-          "rotationY": -0.340047,
-          "rotationZ": -0.940365,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -41.6797,
-          "positionY": 7.77832,
-          "positionZ": 7.07617,
-          "rotationX": 0.653006,
-          "rotationY": -0.437754,
-          "rotationZ": -0.618024,
-          "fov": 90.000000
-        },
-        {
-          "positionX": 41.6777,
-          "positionY": 7.62402,
-          "positionZ": 7.2041,
-          "rotationX": -0.711483,
-          "rotationY": -0.425387,
-          "rotationZ": -0.559319,
-          "fov": 90.000000
-        },
-        {
-          "positionX": 42.1445,
-          "positionY": 6.90527,
-          "positionZ": 6.74414,
-          "rotationX": -0.792263,
-          "rotationY": -0.385339,
-          "rotationZ": -0.473111,
-          "fov": 90.000000
-        }
-      ]
-    },
-    {
-      "map": "Castillo",
-      "cameras": [
-        {
-          "positionX": -103.764,
-          "positionY": 105.144,
-          "positionZ": 58.4131,
-          "rotationX": 0.0171618,
+          "positionX": 145.146,
+          "positionY": 75.9727,
+          "positionZ": 249.574,
+          "rotationX": -0.0122534,
           "rotationY": -0.999848,
-          "rotationZ": -0.00314764,
-          "fov": 46.091995
-        },
-        {
-          "positionX": -128.856,
-          "positionY": 55.3945,
-          "positionZ": 63.5654,
-          "rotationX": 0.89593,
-          "rotationY": -0.406643,
-          "rotationZ": -0.178747,
+          "rotationZ": -0.0124214,
           "fov": 70.000000
         },
         {
-          "positionX": -57.2266,
-          "positionY": 45.9648,
-          "positionZ": 49.4473,
-          "rotationX": -0.948005,
-          "rotationY": -0.256719,
-          "rotationZ": 0.188098,
+          "positionX": 129.979,
+          "positionY": 73.9521,
+          "positionZ": -236.163,
+          "rotationX": -0.0123825,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0122926,
           "fov": 70.000000
         },
         {
-          "positionX": -98.3203,
-          "positionY": 37.8066,
-          "positionZ": 51.8916,
-          "rotationX": -0.678651,
-          "rotationY": 0.11689,
-          "rotationZ": 0.725099,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -105.874,
-          "positionY": 33.9414,
-          "positionZ": 29.9424,
-          "rotationX": -0.915293,
-          "rotationY": -0.108888,
-          "rotationZ": -0.387792,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -95.0137,
-          "positionY": 33.9063,
-          "positionZ": 86.6289,
-          "rotationX": -0.738551,
-          "rotationY": -0.0563439,
-          "rotationZ": 0.671839,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -118.975,
-          "positionY": 37.3271,
-          "positionZ": 61.9307,
-          "rotationX": -0.987267,
-          "rotationY": 0.0580668,
-          "rotationZ": 0.148092,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -94.5518,
-          "positionY": 35.9053,
-          "positionZ": 31.0283,
-          "rotationX": -0.940006,
-          "rotationY": -0.153745,
-          "rotationZ": 0.30455,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -87.5635,
-          "positionY": 36.3984,
-          "positionZ": 79.1123,
-          "rotationX": -0.983958,
-          "rotationY": -0.177382,
-          "rotationZ": -0.0190583,
+          "positionX": -188.088,
+          "positionY": 41.5166,
+          "positionZ": -0.03125,
+          "rotationX": -0.0174481,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0000217464,
           "fov": 70.000000
         }
       ]
@@ -1123,84 +393,39 @@
       "map": "Junkertown",
       "cameras": [
         {
-          "positionX": -110.519,
-          "positionY": 7.46582,
-          "positionZ": -111.894,
-          "rotationX": -0.816463,
-          "rotationY": -0.133916,
-          "rotationZ": 0.561654,
+          "positionX": -1.72656,
+          "positionY": 63.3066,
+          "positionZ": -57.6475,
+          "rotationX": -0.00886083,
+          "rotationY": -0.999848,
+          "rotationZ": -0.0150307,
           "fov": 70.000000
         },
         {
-          "positionX": 57.8652,
-          "positionY": 9.75488,
-          "positionZ": -64.6641,
-          "rotationX": 0.974191,
-          "rotationY": -0.111937,
-          "rotationZ": 0.196013,
+          "positionX": -38.6436,
+          "positionY": 55.1426,
+          "positionZ": -84.8623,
+          "rotationX": 0.0154372,
+          "rotationY": -0.999848,
+          "rotationZ": -0.00813188,
           "fov": 70.000000
         },
         {
-          "positionX": 29.4883,
-          "positionY": 11.4893,
-          "positionZ": -93.6748,
-          "rotationX": 0.763775,
-          "rotationY": -0.190575,
-          "rotationZ": -0.616709,
+          "positionX": -84.6113,
+          "positionY": 26.3477,
+          "positionZ": -160.276,
+          "rotationX": 0.178792,
+          "rotationY": -0.545887,
+          "rotationZ": 0.81856,
           "fov": 70.000000
         },
         {
-          "positionX": -32.6289,
-          "positionY": 5.56152,
-          "positionZ": -30.5029,
-          "rotationX": -0.976738,
-          "rotationY": -0.094009,
-          "rotationZ": -0.192728,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -96.5469,
-          "positionY": 24.9482,
-          "positionZ": -71.0918,
-          "rotationX": 0.100327,
-          "rotationY": -0.751734,
-          "rotationZ": -0.65179,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -44.8525,
-          "positionY": 6.08887,
-          "positionZ": -72.626,
-          "rotationX": -0.513344,
-          "rotationY": -0.0198446,
-          "rotationZ": -0.857954,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -29.4834,
-          "positionY": 3.05371,
-          "positionZ": -137.135,
-          "rotationX": -0.685141,
-          "rotationY": -0.134391,
-          "rotationZ": 0.715906,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -59.9502,
-          "positionY": 11.8828,
-          "positionZ": -67.8174,
-          "rotationX": 0.955131,
-          "rotationY": -0.0311539,
-          "rotationZ": -0.294542,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -93.7256,
-          "positionY": 10.4385,
-          "positionZ": -184.327,
-          "rotationX": 0.191621,
-          "rotationY": -0.111937,
-          "rotationZ": 0.975065,
+          "positionX": -80.332,
+          "positionY": 47.582,
+          "positionZ": -136.016,
+          "rotationX": -0.00378208,
+          "rotationY": -0.999848,
+          "rotationZ": -0.0170333,
           "fov": 70.000000
         }
       ]
@@ -1209,170 +434,30 @@
       "map": "Blizzard World",
       "cameras": [
         {
-          "positionX": 26.0586,
-          "positionY": 5.50391,
-          "positionZ": 7.87598,
-          "rotationX": -0.720143,
-          "rotationY": -0.256441,
-          "rotationZ": -0.644695,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -4.99316,
-          "positionY": 11.7539,
-          "positionZ": 64.1738,
-          "rotationX": 0.263842,
-          "rotationY": -0.216013,
-          "rotationZ": -0.940067,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -6.75488,
-          "positionY": 12.2578,
-          "positionZ": 93.4561,
-          "rotationX": 0.341591,
-          "rotationY": -0.244468,
-          "rotationZ": -0.907497,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -37.585,
-          "positionY": 50.5762,
-          "positionZ": 90.9619,
-          "rotationX": -0.008881,
+          "positionX": 0.730469,
+          "positionY": 54.2979,
+          "positionZ": 44.0928,
+          "rotationX": -0.0174473,
           "rotationY": -0.999848,
-          "rotationZ": -0.0150188,
+          "rotationZ": 0.000162259,
           "fov": 70.000000
         },
         {
-          "positionX": 37.0869,
-          "positionY": 1.46973,
-          "positionZ": 139.226,
-          "rotationX": 0.821352,
-          "rotationY": -0.0694526,
-          "rotationZ": 0.566178,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -12.4209,
-          "positionY": 13.9814,
-          "positionZ": 136.384,
-          "rotationX": 0.836023,
-          "rotationY": 0.458921,
-          "rotationZ": -0.300762,
-          "fov": 44.117455
-        },
-        {
-          "positionX": 3.02344,
-          "positionY": -3.93652,
-          "positionZ": -58.5068,
-          "rotationX": 0.00434039,
-          "rotationY": 0.177193,
-          "rotationZ": 0.984167,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -94.4404,
-          "positionY": -13.9336,
-          "positionZ": 132.767,
-          "rotationX": -0.513162,
-          "rotationY": -0.1436,
-          "rotationZ": -0.846194,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -111.143,
-          "positionY": -3.24316,
-          "positionZ": 110.227,
-          "rotationX": 0.61543,
-          "rotationY": -0.19791,
-          "rotationZ": 0.76294,
-          "fov": 70.000000
-        }
-      ]
-    },
-    {
-      "map": "Château Guillard",
-      "cameras": [
-        {
-          "positionX": 194.093,
-          "positionY": 324.411,
-          "positionZ": 84.1133,
-          "rotationX": 0.000078622,
+          "positionX": -30.7695,
+          "positionY": 53.1592,
+          "positionZ": 89.9531,
+          "rotationX": -0.00863504,
           "rotationY": -0.999848,
-          "rotationZ": 0.0174479,
-          "fov": 18.856480
-        },
-        {
-          "positionX": 182.237,
-          "positionY": 29.957,
-          "positionZ": 35.2979,
-          "rotationX": 0.478222,
-          "rotationY": -0.490059,
-          "rotationZ": 0.728797,
+          "rotationZ": -0.0151615,
           "fov": 70.000000
         },
         {
-          "positionX": 162.169,
-          "positionY": 11.043,
-          "positionZ": 47.7061,
-          "rotationX": 0.935328,
-          "rotationY": -0.0965859,
-          "rotationZ": 0.340341,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 177.248,
-          "positionY": 17.0547,
-          "positionZ": 107.604,
-          "rotationX": 0.407507,
-          "rotationY": -0.419913,
-          "rotationZ": -0.810932,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 198.716,
-          "positionY": 15.5244,
-          "positionZ": 124.588,
-          "rotationX": 0.0143849,
-          "rotationY": -0.19556,
-          "rotationZ": -0.980587,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 250.518,
-          "positionY": 17.4922,
-          "positionZ": 122.262,
-          "rotationX": -0.619117,
-          "rotationY": -0.206549,
-          "rotationZ": -0.757649,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 247.63,
-          "positionY": 20.4248,
-          "positionZ": 59.8721,
-          "rotationX": -0.860294,
-          "rotationY": -0.27216,
-          "rotationZ": 0.431073,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 225.33,
-          "positionY": 20.5684,
-          "positionZ": 37.5332,
-          "rotationX": -0.616206,
-          "rotationY": -0.274097,
-          "rotationZ": 0.73835,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 206.321,
-          "positionY": 3.57813,
-          "positionZ": 68.2139,
-          "rotationX": -0.0116599,
-          "rotationY": -0.194996,
-          "rotationZ": 0.980735,
+          "positionX": -110.497,
+          "positionY": 25.666,
+          "positionZ": 115.571,
+          "rotationX": 0.00486445,
+          "rotationY": -0.999848,
+          "rotationZ": -0.0167563,
           "fov": 70.000000
         }
       ]
@@ -1381,84 +466,21 @@
       "map": "Busan",
       "cameras": [
         {
-          "positionX": -328.495,
-          "positionY": 89.5127,
-          "positionZ": 142.818,
-          "rotationX": -0.00000668767,
+          "positionX": -328.5,
+          "positionY": 84.5879,
+          "positionZ": 145.325,
+          "rotationX": 0.000145533,
+          "rotationY": -0.999848,
+          "rotationZ": -0.0174475,
+          "fov": 70.000000
+        },
+        {
+          "positionX": 51.8779,
+          "positionY": 83.6006,
+          "positionZ": -106.28,
+          "rotationX": 0.0000117087,
           "rotationY": -0.999848,
           "rotationZ": -0.0174481,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 51.873,
-          "positionY": 102.333,
-          "positionZ": -112.179,
-          "rotationX": -0.0000100364,
-          "rotationY": -0.999848,
-          "rotationZ": -0.0174481,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 220.091,
-          "positionY": 10.4082,
-          "positionZ": 218.629,
-          "rotationX": -0.314378,
-          "rotationY": 0.0279915,
-          "rotationZ": -0.948885,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -298.328,
-          "positionY": 14.1768,
-          "positionZ": 164.568,
-          "rotationX": -0.572086,
-          "rotationY": 0.15848,
-          "rotationZ": 0.804737,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 106.765,
-          "positionY": 23.5879,
-          "positionZ": -126.151,
-          "rotationX": -0.848676,
-          "rotationY": 0.101261,
-          "rotationZ": -0.51913,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 231.184,
-          "positionY": 12.6064,
-          "positionZ": 261.715,
-          "rotationX": -0.394571,
-          "rotationY": -0.108126,
-          "rotationZ": -0.912482,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -326.432,
-          "positionY": 16.0156,
-          "positionZ": 180.79,
-          "rotationX": -0.793098,
-          "rotationY": 0.0629474,
-          "rotationZ": 0.605832,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 63.2881,
-          "positionY": 8.44043,
-          "positionZ": -86.415,
-          "rotationX": 0.593604,
-          "rotationY": -0.0584497,
-          "rotationZ": -0.802632,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 166.607,
-          "positionY": 14.4238,
-          "positionZ": 239.796,
-          "rotationX": -0.522577,
-          "rotationY": -0.159994,
-          "rotationZ": -0.837445,
           "fov": 70.000000
         }
       ]
@@ -1467,84 +489,48 @@
       "map": "Circuit royal",
       "cameras": [
         {
-          "positionX": -54.4199,
-          "positionY": 6.98047,
-          "positionZ": 12.665,
-          "rotationX": 0.996436,
-          "rotationY": -0.0601724,
-          "rotationZ": 0.0591081,
+          "positionX": -20.1279,
+          "positionY": 73.0439,
+          "positionZ": -22.5234,
+          "rotationX": -0.0000317835,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0174481,
           "fov": 70.000000
         },
         {
-          "positionX": 136.949,
-          "positionY": 11.8916,
-          "positionZ": -5.77344,
-          "rotationX": -0.843444,
-          "rotationY": -0.0404477,
-          "rotationZ": 0.535692,
+          "positionX": 13.6152,
+          "positionY": 65.4814,
+          "positionZ": -13.5195,
+          "rotationX": 0.00303404,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0171823,
           "fov": 70.000000
         },
         {
-          "positionX": 74.3672,
-          "positionY": 19.9512,
-          "positionZ": 60.1836,
-          "rotationX": 0.222438,
-          "rotationY": -0.208143,
-          "rotationZ": -0.952469,
+          "positionX": 56.3057,
+          "positionY": 48.3262,
+          "positionZ": 13.4023,
+          "rotationX": -0.0148255,
+          "rotationY": -0.999848,
+          "rotationZ": 0.00920004,
           "fov": 70.000000
         },
         {
-          "positionX": -107.03,
-          "positionY": 9.19824,
-          "positionZ": -37.5674,
-          "rotationX": 0.786011,
-          "rotationY": -0.0568225,
-          "rotationZ": -0.615595,
+          "positionX": 92.3057,
+          "positionY": 31.6279,
+          "positionZ": 21.4717,
+          "rotationX": 0.00950787,
+          "rotationY": -0.999848,
+          "rotationZ": 0.01463,
           "fov": 70.000000
         },
         {
-          "positionX": -24.8379,
-          "positionY": 6.57715,
-          "positionZ": -18.6299,
-          "rotationX": -0.772629,
-          "rotationY": -0.0577797,
-          "rotationZ": 0.632223,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -6.80762,
-          "positionY": 13.1387,
-          "positionZ": 5.69629,
-          "rotationX": -0.36793,
-          "rotationY": -0.152702,
-          "rotationZ": 0.917229,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -245.429,
-          "positionY": 10.9922,
-          "positionZ": 191.734,
-          "rotationX": -0.555817,
-          "rotationY": 0.0334537,
-          "rotationZ": 0.830631,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 89.0146,
-          "positionY": 16.8447,
-          "positionZ": -51.0068,
-          "rotationX": -0.828522,
-          "rotationY": -0.0395855,
-          "rotationZ": 0.558555,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 67.5293,
-          "positionY": 12.8086,
-          "positionZ": 23.7529,
-          "rotationX": 0.216418,
-          "rotationY": -0.0563439,
-          "rotationZ": -0.974674,
+          "positionX": 56.3057,
+          "positionY": 48.3262,
+          "positionZ": 13.4023,
+          "rotationX": -0.0148255,
+          "rotationY": -0.999848,
+          "rotationZ": 0.00920004,
           "fov": 70.000000
         }
       ]
@@ -1553,84 +539,48 @@
       "map": "Rialto",
       "cameras": [
         {
-          "positionX": 154.843,
-          "positionY": 15.4277,
-          "positionZ": -26.5791,
-          "rotationX": -0.726658,
-          "rotationY": -0.567154,
-          "rotationZ": 0.387691,
+          "positionX": 68.5605,
+          "positionY": 49.9238,
+          "positionZ": -41.5068,
+          "rotationX": 0.0115014,
+          "rotationY": -0.999848,
+          "rotationZ": -0.0131207,
           "fov": 70.000000
         },
         {
-          "positionX": 79.9287,
-          "positionY": -0.44043,
-          "positionZ": -0.616211,
-          "rotationX": -0.896483,
-          "rotationY": -0.0132302,
-          "rotationZ": -0.44288,
+          "positionX": 6.99414,
+          "positionY": 60.416,
+          "positionZ": -60.0039,
+          "rotationX": -0.000118768,
+          "rotationY": -0.999848,
+          "rotationZ": -0.0174477,
           "fov": 70.000000
         },
         {
-          "positionX": 87.791,
-          "positionY": 9.72754,
-          "positionZ": -56.6387,
-          "rotationX": 0.242039,
-          "rotationY": -0.221159,
-          "rotationZ": -0.944725,
+          "positionX": -42.6777,
+          "positionY": 69.1055,
+          "positionZ": -87.8721,
+          "rotationX": 0.0152526,
+          "rotationY": -0.999848,
+          "rotationZ": -0.00847321,
           "fov": 70.000000
         },
         {
-          "positionX": 7.88281,
-          "positionY": 1.30078,
-          "positionZ": -90.7529,
-          "rotationX": 0.567594,
-          "rotationY": -0.0350826,
-          "rotationZ": 0.822561,
+          "positionX": -57.5029,
+          "positionY": 26.6074,
+          "positionZ": -126.395,
+          "rotationX": 0.0174481,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0000250917,
           "fov": 70.000000
         },
         {
-          "positionX": -59.8467,
-          "positionY": 1.9707,
-          "positionZ": 18.4229,
-          "rotationX": 0.972912,
-          "rotationY": -0.175211,
-          "rotationZ": -0.150807,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -77.0938,
-          "positionY": 4.27051,
-          "positionZ": -87.5293,
-          "rotationX": 0.00410739,
-          "rotationY": -0.0857018,
-          "rotationZ": 0.996312,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -56.9043,
-          "positionY": 8.86133,
-          "positionZ": -159.723,
-          "rotationX": 0.00740002,
-          "rotationY": -0.46139,
-          "rotationZ": -0.887167,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -44.833,
-          "positionY": -1.64551,
-          "positionZ": -127.987,
-          "rotationX": -0.999862,
-          "rotationY": -0.014093,
-          "rotationZ": -0.00881946,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -26.3955,
-          "positionY": -0.250977,
-          "positionZ": -80.5322,
-          "rotationX": 0.728962,
-          "rotationY": 0.0248288,
-          "rotationZ": -0.684104,
+          "positionX": -57.5029,
+          "positionY": 26.6074,
+          "positionZ": -126.395,
+          "rotationX": 0.0174481,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0000250917,
           "fov": 70.000000
         }
       ]
@@ -1639,84 +589,39 @@
       "map": "Paraíso",
       "cameras": [
         {
-          "positionX": -102.023,
-          "positionY": 2.18945,
-          "positionZ": 57.1621,
-          "rotationX": 0.96126,
-          "rotationY": -0.232923,
-          "rotationZ": -0.147397,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -59.5449,
-          "positionY": 1.73828,
-          "positionZ": 25.3408,
-          "rotationX": 0.608872,
-          "rotationY": -0.15545,
-          "rotationZ": 0.777888,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 3.53125,
-          "positionY": 14.875,
-          "positionZ": 13.6699,
-          "rotationX": -0.935784,
-          "rotationY": -0.312862,
-          "rotationZ": 0.162559,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -2.81738,
-          "positionY": 59.1953,
-          "positionZ": -50.708,
-          "rotationX": 0.0172445,
+          "positionX": -20.1299,
+          "positionY": 51.8438,
+          "positionZ": 17.9268,
+          "rotationX": 0.0142624,
           "rotationY": -0.999848,
-          "rotationZ": 0.00265775,
+          "rotationZ": 0.0100509,
           "fov": 70.000000
         },
         {
-          "positionX": -20.5195,
-          "positionY": 3.07129,
-          "positionZ": -23.6514,
-          "rotationX": -0.988933,
-          "rotationY": -0.122411,
-          "rotationZ": -0.0838251,
+          "positionX": -5.6416,
+          "positionY": 53.3281,
+          "positionZ": -52.0918,
+          "rotationX": 0.016288,
+          "rotationY": -0.999848,
+          "rotationZ": 0.00625606,
           "fov": 70.000000
         },
         {
-          "positionX": -10.3486,
-          "positionY": 52.7334,
-          "positionZ": -16.8174,
-          "rotationX": 0.418414,
-          "rotationY": 0.259591,
-          "rotationZ": 0.870369,
-          "fov": 32.430382
-        },
-        {
-          "positionX": -4.42383,
-          "positionY": 3.94727,
-          "positionZ": -53.7568,
-          "rotationX": -0.46154,
-          "rotationY": 0.129639,
-          "rotationZ": -0.877596,
+          "positionX": -7.03516,
+          "positionY": 63.2285,
+          "positionZ": -124.209,
+          "rotationX": 0.0130299,
+          "rotationY": -0.999848,
+          "rotationZ": -0.0116042,
           "fov": 70.000000
         },
         {
-          "positionX": 13.5674,
-          "positionY": 6.31445,
-          "positionZ": -105.991,
-          "rotationX": -0.929051,
-          "rotationY": 0.0898085,
-          "rotationZ": -0.358886,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 3.95996,
-          "positionY": 2.02246,
-          "positionZ": -142.075,
-          "rotationX": 0.957444,
-          "rotationY": -0.191139,
-          "rotationZ": 0.216255,
+          "positionX": -20.7295,
+          "positionY": 21.791,
+          "positionZ": -139.556,
+          "rotationX": 0.0126171,
+          "rotationY": -0.999848,
+          "rotationZ": -0.0120517,
           "fov": 70.000000
         }
       ]
@@ -1725,84 +630,30 @@
       "map": "Havana",
       "cameras": [
         {
-          "positionX": -26.1846,
-          "positionY": 12.0488,
-          "positionZ": -52.0947,
-          "rotationX": -0.993957,
-          "rotationY": -0.10946,
-          "rotationZ": 0.0081954,
-          "fov": 30.808863
-        },
-        {
-          "positionX": -66.2598,
-          "positionY": 4.55762,
-          "positionZ": -36.8398,
-          "rotationX": 0.554999,
-          "rotationY": -0.0927681,
-          "rotationZ": -0.826662,
-          "fov": 44.117455
-        },
-        {
-          "positionX": -81.5088,
-          "positionY": 4.6123,
-          "positionZ": -38.6846,
-          "rotationX": 0.486479,
-          "rotationY": -0.283304,
-          "rotationZ": 0.826485,
-          "fov": 44.117455
-        },
-        {
-          "positionX": 30.7412,
-          "positionY": 4.86621,
-          "positionZ": -96.6934,
-          "rotationX": -0.793842,
-          "rotationY": 0.0137095,
-          "rotationZ": 0.607969,
+          "positionX": -39.3369,
+          "positionY": 61.7188,
+          "positionZ": -61.4639,
+          "rotationX": 0.00617948,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0163172,
           "fov": 70.000000
         },
         {
-          "positionX": 185.53,
-          "positionY": 24.1475,
-          "positionZ": -81.4492,
-          "rotationX": -0.763095,
-          "rotationY": -0.165764,
-          "rotationZ": -0.624666,
+          "positionX": 26.9551,
+          "positionY": 56.7578,
+          "positionZ": -81.5293,
+          "rotationX": -0.0000368019,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0174481,
           "fov": 70.000000
         },
         {
-          "positionX": 126.81,
-          "positionY": 7.37402,
-          "positionZ": -30.5293,
-          "rotationX": -0.110007,
-          "rotationY": -0.118984,
-          "rotationZ": 0.986783,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 105.715,
-          "positionY": 2.84473,
-          "positionZ": -36.3057,
-          "rotationX": 0.0435916,
-          "rotationY": -0.149575,
-          "rotationZ": -0.987789,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 94.3389,
-          "positionY": 2.68164,
-          "positionZ": -71.5283,
-          "rotationX": 0.97671,
-          "rotationY": -0.0462905,
-          "rotationZ": -0.209512,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 81.4404,
-          "positionY": 3.9043,
-          "positionZ": -90.8516,
-          "rotationX": 0.366697,
-          "rotationY": 0.0757635,
-          "rotationZ": 0.92725,
+          "positionX": 105.026,
+          "positionY": 65.0459,
+          "positionZ": -55.9453,
+          "rotationX": -0.00872501,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0151099,
           "fov": 70.000000
         }
       ]
@@ -1811,84 +662,30 @@
       "map": "New Queen Street",
       "cameras": [
         {
-          "positionX": 0.363281,
-          "positionY": 102.466,
-          "positionZ": -15.1191,
-          "rotationX": -0.000130478,
+          "positionX": 0.182617,
+          "positionY": 93.9756,
+          "positionZ": -6.67773,
+          "rotationX": -0.00000836413,
           "rotationY": -0.999848,
-          "rotationZ": -0.0174476,
+          "rotationZ": -0.0174481,
           "fov": 70.000000
         },
         {
-          "positionX": -20.1318,
-          "positionY": 6.58789,
-          "positionZ": 14.6543,
-          "rotationX": -0.000190996,
-          "rotationY": -0.0793957,
-          "rotationZ": -0.996843,
+          "positionX": -39.5684,
+          "positionY": 76.7813,
+          "positionZ": -6.68164,
+          "rotationX": -0.00000836413,
+          "rotationY": -0.999848,
+          "rotationZ": -0.0174481,
           "fov": 70.000000
         },
         {
-          "positionX": 69.1963,
-          "positionY": 9.00293,
-          "positionZ": 2.98926,
-          "rotationX": 0.0669458,
-          "rotationY": -0.0243495,
-          "rotationZ": 0.997459,
-          "fov": 25.094009
-        },
-        {
-          "positionX": 70.1436,
-          "positionY": 9.29102,
-          "positionZ": 8.85938,
-          "rotationX": -0.186668,
-          "rotationY": -0.0593111,
-          "rotationZ": -0.980632,
-          "fov": 25.094009
-        },
-        {
-          "positionX": 67.1885,
-          "positionY": 4.47168,
-          "positionZ": -5.36621,
-          "rotationX": -0.956793,
-          "rotationY": -0.157154,
-          "rotationZ": -0.244642,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 126.673,
-          "positionY": 10.374,
-          "positionZ": -9.03809,
-          "rotationX": 0.529947,
-          "rotationY": -0.0400645,
-          "rotationZ": -0.847084,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 169.723,
-          "positionY": 10.5811,
-          "positionZ": 51.8281,
-          "rotationX": -0.847924,
-          "rotationY": -0.0499295,
-          "rotationZ": -0.527762,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 24.2314,
-          "positionY": 14.9824,
-          "positionZ": -50.8262,
-          "rotationX": -0.986189,
-          "rotationY": -0.0549081,
-          "rotationZ": -0.156255,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -69.3242,
-          "positionY": 11.1318,
-          "positionZ": 33.375,
-          "rotationX": -0.792615,
-          "rotationY": -0.136575,
-          "rotationZ": 0.594229,
+          "positionX": 39.6836,
+          "positionY": 76.75,
+          "positionZ": -6.51074,
+          "rotationX": -0.00000836413,
+          "rotationY": -0.999848,
+          "rotationZ": -0.0174481,
           "fov": 70.000000
         }
       ]
@@ -1897,84 +694,30 @@
       "map": "Colosseo",
       "cameras": [
         {
-          "positionX": 0.165039,
-          "positionY": 94.6084,
-          "positionZ": -19.6602,
-          "rotationX": -0.000207424,
+          "positionX": 0.0927734,
+          "positionY": 72.7842,
+          "positionZ": -12.2578,
+          "rotationX": -0.000157242,
           "rotationY": -0.999848,
-          "rotationZ": 0.0174469,
+          "rotationZ": 0.0174474,
           "fov": 70.000000
         },
         {
-          "positionX": -7.27148,
-          "positionY": 13.2373,
-          "positionZ": -46.9492,
-          "rotationX": -0.572083,
-          "rotationY": 0.28799,
-          "rotationZ": -0.767974,
-          "fov": 26.348705
-        },
-        {
-          "positionX": -2.81543,
-          "positionY": 1.77441,
-          "positionZ": -25.1162,
-          "rotationX": 0.824841,
-          "rotationY": 0.208706,
-          "rotationZ": -0.525432,
+          "positionX": 34.2314,
+          "positionY": 57.8779,
+          "positionZ": -11.9805,
+          "rotationX": -0.000157242,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0174474,
           "fov": 70.000000
         },
         {
-          "positionX": -36.3486,
-          "positionY": 3.61523,
-          "positionZ": 4.96191,
-          "rotationX": -0.997303,
-          "rotationY": -0.0698351,
-          "rotationZ": -0.022569,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 129.215,
-          "positionY": 28.3154,
-          "positionZ": -54.8955,
-          "rotationX": -0.624755,
-          "rotationY": -0.703709,
-          "rotationZ": 0.338341,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -129.464,
-          "positionY": 24.0947,
-          "positionZ": -55.1807,
-          "rotationX": 0.666835,
-          "rotationY": -0.648368,
-          "rotationZ": 0.367355,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 47.1855,
-          "positionY": 8.41113,
-          "positionZ": -46.1367,
-          "rotationX": 0.550136,
-          "rotationY": 0.00249272,
-          "rotationZ": -0.835071,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 28.5146,
-          "positionY": 4.74512,
-          "positionZ": 17.9277,
-          "rotationX": -0.526181,
-          "rotationY": 0.229845,
-          "rotationZ": 0.818722,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 80.9277,
-          "positionY": 14.8828,
-          "positionZ": 4.88086,
-          "rotationX": -0.480041,
-          "rotationY": -0.595083,
-          "rotationZ": 0.644544,
+          "positionX": -34.4502,
+          "positionY": 59.0713,
+          "positionZ": -12.541,
+          "rotationX": -0.000157242,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0174474,
           "fov": 70.000000
         }
       ]
@@ -1983,84 +726,48 @@
       "map": "Midtown",
       "cameras": [
         {
-          "positionX": 13.8154,
-          "positionY": 6.25293,
-          "positionZ": 79.0439,
-          "rotationX": -0.260244,
-          "rotationY": -0.102691,
-          "rotationZ": 0.960066,
+          "positionX": -2.10938,
+          "positionY": 57.9209,
+          "positionZ": 66.1836,
+          "rotationX": 0.0173469,
+          "rotationY": -0.999848,
+          "rotationZ": 0.00187661,
           "fov": 70.000000
         },
         {
-          "positionX": -14.9141,
-          "positionY": 9.11719,
-          "positionZ": 86.7402,
-          "rotationX": 0.787159,
-          "rotationY": -0.185678,
-          "rotationZ": -0.588137,
+          "positionX": 38.5205,
+          "positionY": 65.9912,
+          "positionZ": 13.1113,
+          "rotationX": 0.0155993,
+          "rotationY": -0.999848,
+          "rotationZ": 0.00781645,
           "fov": 70.000000
         },
         {
-          "positionX": 65.0068,
-          "positionY": 200.974,
-          "positionZ": -55.4883,
-          "rotationX": 0.307767,
-          "rotationY": 0.338153,
-          "rotationZ": 0.889343,
-          "fov": 44.117455
-        },
-        {
-          "positionX": 9.96777,
-          "positionY": 3.85645,
-          "positionZ": 97.2676,
-          "rotationX": -0.790002,
-          "rotationY": -0.180966,
-          "rotationZ": -0.585788,
+          "positionX": 93.6963,
+          "positionY": 28.7109,
+          "positionZ": -24.2529,
+          "rotationX": 0.0120275,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0126402,
           "fov": 70.000000
         },
         {
-          "positionX": -20.7549,
-          "positionY": 3.94922,
-          "positionZ": 79.7314,
-          "rotationX": 0.911285,
-          "rotationY": -0.327395,
-          "rotationZ": -0.249743,
+          "positionX": 97.8643,
+          "positionY": 19.6055,
+          "positionZ": -47.6279,
+          "rotationX": 0.000133824,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0174476,
           "fov": 70.000000
         },
         {
-          "positionX": 7.66797,
-          "positionY": 4.08008,
-          "positionZ": 50.9385,
-          "rotationX": -0.354544,
-          "rotationY": -0.222374,
-          "rotationZ": 0.908212,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 188.322,
-          "positionY": -16.3438,
-          "positionZ": -42.5225,
-          "rotationX": -0.0048511,
-          "rotationY": -0.124884,
-          "rotationZ": -0.992159,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -7.46289,
-          "positionY": 12.1816,
-          "positionZ": 21.3418,
-          "rotationX": 0.453821,
-          "rotationY": -0.151091,
-          "rotationZ": 0.87819,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 110.743,
-          "positionY": 3.58789,
-          "positionZ": -38.3447,
-          "rotationX": 0.977775,
-          "rotationY": -0.00249272,
-          "rotationZ": -0.209643,
+          "positionX": 121.417,
+          "positionY": 28.4756,
+          "positionZ": -50.5469,
+          "rotationX": 0.0140453,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0103521,
           "fov": 70.000000
         }
       ]
@@ -2069,238 +776,30 @@
       "map": "Shambali Monastery",
       "cameras": [
         {
-          "positionX": -22.2705,
-          "positionY": 17.457,
-          "positionZ": 11.2236,
-          "rotationX": 0.953006,
-          "rotationY": -0.275295,
-          "rotationZ": -0.126457,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -2.28906,
-          "positionY": 24.0693,
-          "positionZ": 67.6416,
-          "rotationX": 0.476461,
-          "rotationY": -0.327123,
-          "rotationZ": -0.816073,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -3.37402,
-          "positionY": 11.5537,
-          "positionZ": 28.8096,
-          "rotationX": 0.633515,
-          "rotationY": -0.144454,
-          "rotationZ": -0.760126,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -42.8193,
-          "positionY": 15.0469,
-          "positionZ": 67.2734,
-          "rotationX": 0.625757,
-          "rotationY": 0.00143811,
-          "rotationZ": -0.780017,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -58.6563,
-          "positionY": 44.6641,
-          "positionZ": 212.713,
-          "rotationX": -0.378707,
-          "rotationY": 0.664209,
-          "rotationZ": -0.644521,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -60.1748,
-          "positionY": 35.6377,
-          "positionZ": 164.043,
-          "rotationX": 0.737443,
-          "rotationY": 0.0678265,
-          "rotationZ": 0.671995,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -16.8281,
-          "positionY": 35.8105,
-          "positionZ": 124.906,
-          "rotationX": 0.864035,
-          "rotationY": -0.292027,
-          "rotationZ": -0.410078,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -19.6875,
-          "positionY": 14.0752,
-          "positionZ": 100.911,
-          "rotationX": 0.786093,
-          "rotationY": 0.21311,
-          "rotationZ": 0.580208,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -9.56738,
-          "positionY": 40.1143,
-          "positionZ": 117.68,
-          "rotationX": -0.0160398,
-          "rotationY": 0.0906678,
-          "rotationZ": 0.995752,
-          "fov": 70.000000
-        }
-      ]
-    },
-    {
-      "map": "Busan Stadium",
-      "cameras": [
-        {
-          "positionX": 0.00585938,
-          "positionY": 55.0283,
-          "positionZ": -4.9209,
-          "rotationX": -0.0000150533,
+          "positionX": -8.92383,
+          "positionY": 79.4561,
+          "positionZ": 44.1074,
+          "rotationX": -0.0174481,
           "rotationY": -0.999848,
-          "rotationZ": -0.0174481,
+          "rotationZ": -0.0000351295,
           "fov": 70.000000
         },
         {
-          "positionX": -31.4668,
-          "positionY": 8.0127,
-          "positionZ": 22.8262,
-          "rotationX": 0.5912,
-          "rotationY": -0.117366,
-          "rotationZ": -0.79794,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 32.7363,
-          "positionY": 8.16113,
-          "positionZ": 22.0166,
-          "rotationX": -0.575601,
-          "rotationY": -0.150333,
-          "rotationZ": -0.803793,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -41.6787,
-          "positionY": 7.61035,
-          "positionZ": 7.21191,
-          "rotationX": 0.723268,
-          "rotationY": -0.376563,
-          "rotationZ": -0.578864,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 41.6768,
-          "positionY": 7.62305,
-          "positionZ": 7.20605,
-          "rotationX": -0.642871,
-          "rotationY": -0.428855,
-          "rotationZ": -0.634665,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 0.0800781,
-          "positionY": 6.64941,
-          "positionZ": 23.7871,
-          "rotationX": 0.0000000874228,
-          "rotationY": 0.0,
-          "rotationZ": -1.0,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -27.5713,
-          "positionY": 6.25098,
-          "positionZ": 14.0488,
-          "rotationX": -0.437981,
-          "rotationY": -0.232271,
-          "rotationZ": -0.86846,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 27.5791,
-          "positionY": 6.13086,
-          "positionZ": 16.5889,
-          "rotationX": 0.458199,
-          "rotationY": -0.175022,
-          "rotationZ": -0.871448,
-          "fov": 70.000000
-        }
-      ]
-    },
-    {
-      "map": "Sydney Harbour Arena",
-      "cameras": [
-        {
-          "positionX": -35.9502,
-          "positionY": 49.5205,
-          "positionZ": -86.0518,
-          "rotationX": 0.0171478,
+          "positionX": -17.3887,
+          "positionY": 77.041,
+          "positionZ": 97.791,
+          "rotationX": -0.0174266,
           "rotationY": -0.999848,
-          "rotationZ": -0.00322329,
+          "rotationZ": 0.000866156,
           "fov": 70.000000
         },
         {
-          "positionX": -69.3896,
-          "positionY": 8.19336,
-          "positionZ": -113.695,
-          "rotationX": 0.863087,
-          "rotationY": -0.221252,
-          "rotationZ": 0.454014,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -55.1729,
-          "positionY": 10.0186,
-          "positionZ": -48.4688,
-          "rotationX": 0.627339,
-          "rotationY": -0.222468,
-          "rotationZ": -0.746293,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -56.9414,
-          "positionY": 7.41309,
-          "positionZ": -124.507,
-          "rotationX": 0.720759,
-          "rotationY": -0.378162,
-          "rotationZ": 0.580948,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -41.5557,
-          "positionY": 7.5498,
-          "positionZ": -42.5518,
-          "rotationX": 0.514065,
-          "rotationY": -0.412765,
-          "rotationZ": -0.751905,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -65.541,
-          "positionY": 9.14551,
-          "positionZ": -80.4648,
-          "rotationX": 0.916626,
-          "rotationY": -0.362041,
-          "rotationZ": -0.169481,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -60.1338,
-          "positionY": 5.89551,
-          "positionZ": -109.136,
-          "rotationX": 0.74504,
-          "rotationY": -0.139804,
-          "rotationZ": -0.652204,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -52.1553,
-          "positionY": 6.46387,
-          "positionZ": -55.1943,
-          "rotationX": 0.922167,
-          "rotationY": -0.138855,
-          "rotationZ": 0.36101,
+          "positionX": -27.2656,
+          "positionY": 97.168,
+          "positionZ": 151.113,
+          "rotationX": -0.0151607,
+          "rotationY": -0.999848,
+          "rotationZ": -0.0086365,
           "fov": 70.000000
         }
       ]
@@ -2309,84 +808,30 @@
       "map": "Antarctic Peninsula",
       "cameras": [
         {
-          "positionX": 283.989,
-          "positionY": 68.0059,
-          "positionZ": -228.095,
-          "rotationX": -0.0000418184,
+          "positionX": 283.845,
+          "positionY": 60.082,
+          "positionZ": -219.466,
+          "rotationX": 0.00000668767,
           "rotationY": -0.999848,
-          "rotationZ": -0.017448,
+          "rotationZ": -0.0174481,
           "fov": 70.000000
         },
         {
-          "positionX": 270.028,
-          "positionY": 142.66,
-          "positionZ": 156.241,
-          "rotationX": 0.000100368,
+          "positionX": 270.004,
+          "positionY": 120.606,
+          "positionZ": 170.081,
+          "rotationX": -0.000115423,
           "rotationY": -0.999848,
-          "rotationZ": 0.0174478,
+          "rotationZ": 0.0174477,
           "fov": 70.000000
         },
         {
-          "positionX": -98.29,
-          "positionY": -156.138,
-          "positionZ": 69.3135,
-          "rotationX": -0.704448,
-          "rotationY": -0.0557696,
-          "rotationZ": -0.707561,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 320.574,
-          "positionY": -26.1455,
-          "positionZ": -142.704,
-          "rotationX": -0.0795758,
-          "rotationY": -0.0862749,
-          "rotationZ": 0.993088,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 220.007,
-          "positionY": 44.9355,
-          "positionZ": 140.766,
-          "rotationX": 0.416212,
-          "rotationY": 0.0479185,
-          "rotationZ": -0.908004,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -60.5801,
-          "positionY": -149.563,
-          "positionZ": 37.9951,
-          "rotationX": 0.540427,
-          "rotationY": 0.0290457,
-          "rotationZ": 0.840889,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 283.956,
-          "positionY": -10.2432,
-          "positionZ": -264.54,
-          "rotationX": 0.00666348,
-          "rotationY": -0.305751,
-          "rotationZ": -0.952088,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 234.97,
-          "positionY": 46.1904,
-          "positionZ": 193.969,
-          "rotationX": 0.013708,
-          "rotationY": -0.014764,
-          "rotationZ": 0.999797,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -59.1846,
-          "positionY": -160.042,
-          "positionZ": 54.0342,
-          "rotationX": -0.401483,
-          "rotationY": 0.154787,
-          "rotationZ": 0.902692,
+          "positionX": -67.5879,
+          "positionY": -127.895,
+          "positionZ": 60.042,
+          "rotationX": -0.0174481,
+          "rotationY": -0.999848,
+          "rotationZ": -0.0000100397,
           "fov": 70.000000
         }
       ]
@@ -2395,85 +840,40 @@
       "map": "Suravasa",
       "cameras": [
         {
-          "positionX": -5.84668,
-          "positionY": 146.383,
-          "positionZ": 0.0576172,
-          "rotationX": -0.0178313,
-          "rotationY": -0.999841,
-          "rotationZ": 0.0000940245,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -51.8848,
-          "positionY": 124.409,
-          "positionZ": 0.982422,
-          "rotationX": -0.0174481,
+          "positionX": 7.15723,
+          "positionY": 100.098,
+          "positionZ": 0.394531,
+          "rotationX": -0.0174476,
           "rotationY": -0.999848,
-          "rotationZ": 0.0000217464,
+          "rotationZ": -0.000128808,
           "fov": 70.000000
         },
         {
-          "positionX": 37.9463,
-          "positionY": 132.079,
-          "positionZ": 0.0136719,
+          "positionX": -52.6191,
+          "positionY": 100.629,
+          "positionZ": 0.448242,
           "rotationX": -0.017448,
           "rotationY": -0.999848,
-          "rotationZ": 0.0000669118,
+          "rotationZ": 0.0000685845,
           "fov": 70.000000
         },
         {
-          "positionX": -133.024,
-          "positionY": -13.4443,
-          "positionZ": -38.4717,
-          "rotationX": 0.947418,
-          "rotationY": -0.0380527,
-          "rotationZ": -0.317727,
+          "positionX": 45.3535,
+          "positionY": 97.3926,
+          "positionZ": -0.0224609,
+          "rotationX": -0.0174477,
+          "rotationY": -0.999848,
+          "rotationZ": 0.000122117,
           "fov": 70.000000
         },
         {
-          "positionX": -118.374,
-          "positionY": -13.5381,
-          "positionZ": -25.8818,
-          "rotationX": -0.0145118,
-          "rotationY": -0.145592,
-          "rotationZ": -0.989239,
-          "fov": 51.456429
-        },
-        {
-          "positionX": -132.839,
-          "positionY": 30.1826,
-          "positionZ": 51.5645,
-          "rotationX": 0.584735,
-          "rotationY": 0.458069,
-          "rotationZ": 0.66952,
-          "fov": 57.015434
-        },
-        {
-          "positionX": 34.2969,
-          "positionY": 23.417,
-          "positionZ": -30.2764,
-          "rotationX": -0.767955,
-          "rotationY": -0.032783,
-          "rotationZ": -0.639665,
-          "fov": 10.000000
-        },
-        {
-          "positionX": 52.0566,
-          "positionY": 3.45313,
-          "positionZ": -73.5459,
-          "rotationX": 0.0180533,
-          "rotationY": -0.219008,
-          "rotationZ": -0.975556,
+          "positionX": 7.15723,
+          "positionY": 137.503,
+          "positionZ": 0.394531,
+          "rotationX": -0.0174476,
+          "rotationY": -0.999848,
+          "rotationZ": -0.000128808,
           "fov": 70.000000
-        },
-        {
-          "positionX": 21.3027,
-          "positionY": 23.6025,
-          "positionZ": -57.3125,
-          "rotationX": 0.953473,
-          "rotationY": -0.0116005,
-          "rotationZ": 0.301254,
-          "fov": 14.774549
         }
       ]
     },
@@ -2481,84 +881,39 @@
       "map": "Esperança",
       "cameras": [
         {
-          "positionX": 0.0996094,
-          "positionY": 60.2617,
-          "positionZ": -59.4678,
-          "rotationX": -0.000529355,
-          "rotationY": -0.977191,
-          "rotationZ": 0.21236,
+          "positionX": 0.402344,
+          "positionY": 52.5879,
+          "positionZ": -75.6797,
+          "rotationX": -0.00423607,
+          "rotationY": -0.910758,
+          "rotationZ": 0.412918,
           "fov": 70.000000
         },
         {
-          "positionX": -55.1299,
-          "positionY": -2.28809,
-          "positionZ": -47.4189,
-          "rotationX": 0.215304,
-          "rotationY": -0.0909542,
-          "rotationZ": 0.972302,
+          "positionX": 49.7705,
+          "positionY": 54.624,
+          "positionZ": -64.1738,
+          "rotationX": 0.00660906,
+          "rotationY": -0.997919,
+          "rotationZ": 0.0641387,
           "fov": 70.000000
         },
         {
-          "positionX": 95.7002,
-          "positionY": 18.2783,
-          "positionZ": -78.9619,
-          "rotationX": -0.674989,
-          "rotationY": 0.0233911,
-          "rotationZ": -0.737457,
+          "positionX": -47.1572,
+          "positionY": 52.5,
+          "positionZ": -58.3545,
+          "rotationX": -0.00142866,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0173895,
           "fov": 70.000000
         },
         {
-          "positionX": -20.5176,
-          "positionY": 1.8418,
-          "positionZ": 0.668945,
-          "rotationX": -0.809316,
-          "rotationY": -0.0543337,
-          "rotationZ": 0.584855,
-          "fov": 35.933941
-        },
-        {
-          "positionX": 20.2178,
-          "positionY": 0.0361328,
-          "positionZ": -4.40234,
-          "rotationX": 0.483408,
-          "rotationY": 0.175872,
-          "rotationZ": 0.857547,
-          "fov": 35.933941
-        },
-        {
-          "positionX": -29.9502,
-          "positionY": -4.25977,
-          "positionZ": -54.6064,
-          "rotationX": -0.268078,
-          "rotationY": -0.454742,
-          "rotationZ": 0.84932,
-          "fov": 35.933941
-        },
-        {
-          "positionX": -38.4297,
-          "positionY": 1.84375,
-          "positionZ": -51.084,
-          "rotationX": -0.656298,
-          "rotationY": -0.0781532,
-          "rotationZ": -0.750443,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 32.5996,
-          "positionY": -5.01855,
-          "positionZ": -86.5215,
-          "rotationX": -0.678089,
-          "rotationY": 0.0605552,
-          "rotationZ": 0.732481,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 60.9795,
-          "positionY": 6.76172,
-          "positionZ": -132.411,
-          "rotationX": 0.408598,
-          "rotationY": 0.0169688,
-          "rotationZ": 0.912557,
+          "positionX": 0.105469,
+          "positionY": 49.0869,
+          "positionZ": -36.5049,
+          "rotationX": -0.00119938,
+          "rotationY": -0.975618,
+          "rotationZ": 0.219472,
           "fov": 70.000000
         }
       ]
@@ -2567,85 +922,49 @@
       "map": "New Junk City",
       "cameras": [
         {
-          "positionX": -0.887695,
-          "positionY": 167.905,
-          "positionZ": 0.914063,
-          "rotationX": -0.0174479,
+          "positionX": 30.8076,
+          "positionY": 88.6982,
+          "positionZ": 0.22168,
+          "rotationX": -0.286053,
+          "rotationY": -0.958211,
+          "rotationZ": -0.00227633,
+          "fov": 70.000000
+        },
+        {
+          "positionX": -47.3564,
+          "positionY": 96.2666,
+          "positionZ": 0.375,
+          "rotationX": -0.0174465,
           "rotationY": -0.999848,
-          "rotationZ": -0.0000853166,
+          "rotationZ": -0.000235863,
           "fov": 70.000000
         },
         {
-          "positionX": -27.6904,
-          "positionY": 135.049,
-          "positionZ": 0.679688,
-          "rotationX": -0.107649,
-          "rotationY": -0.994189,
-          "rotationZ": -0.000258014,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 40.7031,
-          "positionY": 136.271,
-          "positionZ": -0.680664,
-          "rotationX": -0.0174476,
+          "positionX": 47.4014,
+          "positionY": 107.755,
+          "positionZ": 0.770508,
+          "rotationX": -0.0174468,
           "rotationY": -0.999848,
-          "rotationZ": -0.000128808,
+          "rotationZ": -0.00021244,
           "fov": 70.000000
         },
         {
-          "positionX": 77.4395,
-          "positionY": 7.93164,
-          "positionZ": -51.1875,
-          "rotationX": -0.164086,
-          "rotationY": 0.947002,
-          "rotationZ": 0.276157,
-          "fov": 58.973789
+          "positionX": -7.6748,
+          "positionY": 162.06,
+          "positionZ": 0.186523,
+          "rotationX": -0.0174481,
+          "rotationY": -0.999848,
+          "rotationZ": -0.0000150576,
+          "fov": 70.000000
         },
         {
-          "positionX": -124.73,
-          "positionY": -11.8574,
-          "positionZ": -35.0703,
-          "rotationX": -0.754637,
-          "rotationY": -0.150333,
-          "rotationZ": -0.638688,
-          "fov": 52.958042
-        },
-        {
-          "positionX": 45.8418,
-          "positionY": 3.40918,
-          "positionZ": 45.9346,
-          "rotationX": -0.964102,
-          "rotationY": -0.0555782,
-          "rotationZ": 0.259652,
-          "fov": 22.647343
-        },
-        {
-          "positionX": 8.87793,
-          "positionY": 4.80566,
-          "positionZ": -66.3145,
-          "rotationX": -0.998429,
-          "rotationY": 0.051653,
-          "rotationZ": -0.0217326,
-          "fov": 26.414747
-        },
-        {
-          "positionX": 73.0527,
-          "positionY": 3.02637,
-          "positionZ": 49.0596,
-          "rotationX": -0.233928,
-          "rotationY": -0.18728,
-          "rotationZ": -0.954046,
-          "fov": 22.647343
-        },
-        {
-          "positionX": 77.5205,
-          "positionY": 8.81348,
-          "positionZ": 47.1143,
-          "rotationX": 0.210448,
-          "rotationY": -0.343201,
-          "rotationZ": 0.915382,
-          "fov": 22.647343
+          "positionX": -3.87988,
+          "positionY": 145.755,
+          "positionZ": 0.242188,
+          "rotationX": -0.0174475,
+          "rotationY": -0.999848,
+          "rotationZ": 0.000147205,
+          "fov": 70.000000
         }
       ]
     },
@@ -2653,84 +972,30 @@
       "map": "Runasapi",
       "cameras": [
         {
-          "positionX": -0.615234,
-          "positionY": 109.725,
-          "positionZ": 32.4189,
-          "rotationX": 0.000130478,
+          "positionX": -0.0449219,
+          "positionY": 95.5381,
+          "positionZ": 43.083,
+          "rotationX": -0.0000669124,
           "rotationY": -0.999848,
-          "rotationZ": 0.0174476,
+          "rotationZ": 0.017448,
           "fov": 70.000000
         },
         {
-          "positionX": 38.7109,
-          "positionY": 3.58301,
-          "positionZ": 59.3936,
-          "rotationX": -0.691439,
-          "rotationY": -0.0269373,
-          "rotationZ": -0.721932,
+          "positionX": 28.3369,
+          "positionY": 69.6729,
+          "positionZ": 30.835,
+          "rotationX": -0.000107059,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0174478,
           "fov": 70.000000
         },
         {
-          "positionX": 58.8818,
-          "positionY": 5.35156,
-          "positionZ": 36.3008,
-          "rotationX": -0.449915,
-          "rotationY": -0.291202,
-          "rotationZ": -0.844262,
-          "fov": 23.839308
-        },
-        {
-          "positionX": 101.067,
-          "positionY": 9.19922,
-          "positionZ": 31.4434,
-          "rotationX": 0.289139,
-          "rotationY": -0.0174481,
-          "rotationZ": 0.957128,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 42.9258,
-          "positionY": 35.0898,
-          "positionZ": 16.043,
-          "rotationX": 0.864225,
-          "rotationY": 0.149006,
-          "rotationZ": 0.480534,
-          "fov": 23.839308
-        },
-        {
-          "positionX": -16.7559,
-          "positionY": 6.44238,
-          "positionZ": 80.6709,
-          "rotationX": -0.200298,
-          "rotationY": 0.0386275,
-          "rotationZ": 0.978973,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 27.1973,
-          "positionY": 0.738281,
-          "positionZ": 46.5449,
-          "rotationX": 0.296347,
-          "rotationY": -0.0230077,
-          "rotationZ": 0.954803,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 27.6143,
-          "positionY": 0.0302734,
-          "positionZ": 42.2178,
-          "rotationX": 0.988262,
-          "rotationY": -0.105933,
-          "rotationZ": -0.110076,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -21.9893,
-          "positionY": 1.14648,
-          "positionZ": 25.2998,
-          "rotationX": 0.365957,
-          "rotationY": -0.170679,
-          "rotationZ": 0.914847,
+          "positionX": -39.3438,
+          "positionY": 72.3867,
+          "positionZ": 30.2715,
+          "rotationX": -0.000107059,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0174478,
           "fov": 70.000000
         }
       ]
@@ -2739,84 +1004,30 @@
       "map": "Samoa",
       "cameras": [
         {
-          "positionX": -330.219,
-          "positionY": 98.8086,
-          "positionZ": -105.328,
-          "rotationX": 0.000129424,
-          "rotationY": -0.995942,
-          "rotationZ": -0.0899993,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 233.929,
-          "positionY": 95.6973,
-          "positionZ": -251.771,
-          "rotationX": -0.0000401475,
+          "positionX": -329.813,
+          "positionY": 90.5889,
+          "positionZ": -119.419,
+          "rotationX": 0.0000986928,
           "rotationY": -0.999848,
-          "rotationZ": 0.017448,
+          "rotationZ": -0.0174478,
           "fov": 70.000000
         },
         {
-          "positionX": 35.4609,
-          "positionY": 336.455,
-          "positionZ": 351.358,
-          "rotationX": -0.682273,
-          "rotationY": -0.108697,
-          "rotationZ": 0.722972,
+          "positionX": 234.08,
+          "positionY": 82.7334,
+          "positionZ": -251.823,
+          "rotationX": -0.0000719308,
+          "rotationY": -0.999848,
+          "rotationZ": 0.0174479,
           "fov": 70.000000
         },
         {
-          "positionX": -340.182,
-          "positionY": 1.65918,
-          "positionZ": -158.139,
-          "rotationX": 0.114403,
-          "rotationY": -0.151944,
-          "rotationZ": -0.981746,
-          "fov": 23.779709
-        },
-        {
-          "positionX": 209.141,
-          "positionY": 8.72754,
-          "positionZ": -233.006,
-          "rotationX": -0.626616,
-          "rotationY": -0.30785,
-          "rotationZ": -0.715947,
-          "fov": 70.000000
-        },
-        {
-          "positionX": 67.2275,
-          "positionY": 344.475,
-          "positionZ": 359.979,
-          "rotationX": -0.843202,
-          "rotationY": -0.321954,
-          "rotationZ": 0.430529,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -395.158,
-          "positionY": 6.08691,
-          "positionZ": -122.953,
-          "rotationX": -0.737781,
-          "rotationY": -0.535807,
-          "rotationZ": 0.410598,
-          "fov": 34.137245
-        },
-        {
-          "positionX": 289.275,
-          "positionY": 6.52148,
-          "positionZ": -268.726,
-          "rotationX": 0.933576,
-          "rotationY": -0.0837912,
-          "rotationZ": -0.348447,
-          "fov": 70.000000
-        },
-        {
-          "positionX": -36.7314,
-          "positionY": 341.012,
-          "positionZ": 390.516,
-          "rotationX": 0.0633347,
-          "rotationY": -0.0535678,
-          "rotationZ": -0.996554,
+          "positionX": 27.4893,
+          "positionY": 378.145,
+          "positionZ": 317.044,
+          "rotationX": 0.0029949,
+          "rotationY": -0.598698,
+          "rotationZ": 0.800969,
           "fov": 70.000000
         }
       ]

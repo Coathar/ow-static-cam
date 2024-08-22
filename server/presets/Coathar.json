@@ -20,7 +20,7 @@
           "rotationX": 0.0174478,
           "rotationY": -0.999848,
           "rotationZ": 0.0000920054,
-          "fov": 68.44062
+          "fov": 68.440620
         },
         {
           "positionX": 88.0313,
@@ -29,7 +29,7 @@
           "rotationX": -0.608329,
           "rotationY": -0.793684,
           "rotationZ": 0.00110823,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -183.122,
@@ -38,7 +38,7 @@
           "rotationX": 0.945185,
           "rotationY": -0.326126,
           "rotationZ": -0.016313,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -207.106,
@@ -47,7 +47,7 @@
           "rotationX": 0.909726,
           "rotationY": -0.415209,
           "rotationZ": -0.000436008,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -98.1533,
@@ -56,7 +56,7 @@
           "rotationX": 0.988442,
           "rotationY": -0.151471,
           "rotationZ": -0.00625461,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -22.2129,
@@ -65,7 +65,7 @@
           "rotationX": -0.491628,
           "rotationY": -0.870795,
           "rotationZ": -0.00419512,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 25.1475,
@@ -74,7 +74,7 @@
           "rotationX": 0.996059,
           "rotationY": -0.0885671,
           "rotationZ": 0.00467932,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 72.707,
@@ -83,7 +83,7 @@
           "rotationX": 0.352639,
           "rotationY": -0.93576,
           "rotationZ": 0.00023669,
-          "fov": 70.0
+          "fov": 70.000000
         }
       ]
     },
@@ -115,7 +115,7 @@
           "rotationX": 0.00305106,
           "rotationY": -0.652592,
           "rotationZ": 0.757703,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 1.04785,
@@ -124,7 +124,7 @@
           "rotationX": -0.00526348,
           "rotationY": 0.0601724,
           "rotationZ": 0.998174,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 1.51465,
@@ -133,7 +133,7 @@
           "rotationX": -0.0120777,
           "rotationY": -0.0187902,
           "rotationZ": 0.99975,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 0.97168,
@@ -142,7 +142,7 @@
           "rotationX": 0.00473593,
           "rotationY": -0.759957,
           "rotationZ": 0.649956,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 0.0,
@@ -151,7 +151,7 @@
           "rotationX": -0.00834105,
           "rotationY": -0.422696,
           "rotationZ": -0.906233,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 0.674805,
@@ -160,7 +160,7 @@
           "rotationX": -0.0274956,
           "rotationY": -0.122411,
           "rotationZ": 0.992099,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -0.316406,
@@ -169,7 +169,7 @@
           "rotationX": 0.0217432,
           "rotationY": -0.165953,
           "rotationZ": -0.985894,
-          "fov": 70.0
+          "fov": 70.000000
         }
       ]
     },
@@ -183,7 +183,7 @@
           "rotationX": -0.0161416,
           "rotationY": -0.999848,
           "rotationZ": 0.00662451,
-          "fov": 60.20808
+          "fov": 60.208080
         },
         {
           "positionX": -206.91,
@@ -192,7 +192,7 @@
           "rotationX": 0.0122998,
           "rotationY": -0.999848,
           "rotationZ": 0.0123755,
-          "fov": 48.0345
+          "fov": 48.034500
         },
         {
           "positionX": 28.457,
@@ -210,7 +210,7 @@
           "rotationX": -0.923993,
           "rotationY": -0.0771018,
           "rotationZ": 0.374557,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 354.341,
@@ -219,7 +219,7 @@
           "rotationX": -0.863758,
           "rotationY": -0.35909,
           "rotationZ": 0.353519,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -244.376,
@@ -228,7 +228,7 @@
           "rotationX": 0.705443,
           "rotationY": -0.0776753,
           "rotationZ": 0.704497,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -208.862,
@@ -237,7 +237,7 @@
           "rotationX": -0.0124073,
           "rotationY": -0.999848,
           "rotationZ": -0.0122677,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 28.9189,
@@ -246,7 +246,7 @@
           "rotationX": -0.0155751,
           "rotationY": -0.081307,
           "rotationZ": 0.996567,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 28.25,
@@ -255,7 +255,7 @@
           "rotationX": 0.0191484,
           "rotationY": -0.669781,
           "rotationZ": -0.742312,
-          "fov": 70.0
+          "fov": 70.000000
         }
       ]
     },
@@ -287,7 +287,7 @@
           "rotationX": 0.574607,
           "rotationY": -0.818412,
           "rotationZ": -0.00534391,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 182.474,
@@ -296,7 +296,7 @@
           "rotationX": -0.70552,
           "rotationY": -0.124979,
           "rotationZ": -0.697583,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 100.695,
@@ -305,7 +305,7 @@
           "rotationX": 0.709231,
           "rotationY": -0.0223367,
           "rotationZ": 0.704622,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 99.5977,
@@ -314,7 +314,7 @@
           "rotationX": 0.658724,
           "rotationY": -0.382418,
           "rotationZ": -0.64795,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -226.94,
@@ -323,7 +323,7 @@
           "rotationX": 0.98964,
           "rotationY": -0.141512,
           "rotationZ": 0.0241995,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -194.077,
@@ -332,7 +332,7 @@
           "rotationX": 0.730696,
           "rotationY": -0.301183,
           "rotationZ": -0.612676,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 159.508,
@@ -341,7 +341,7 @@
           "rotationX": -0.463443,
           "rotationY": -0.750152,
           "rotationZ": -0.471692,
-          "fov": 70.0
+          "fov": 70.000000
         }
       ]
     },
@@ -373,7 +373,7 @@
           "rotationX": -0.72011,
           "rotationY": 0.182851,
           "rotationZ": -0.669334,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 140.772,
@@ -382,7 +382,7 @@
           "rotationX": -0.857046,
           "rotationY": 0.047727,
           "rotationZ": 0.513024,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 52.0205,
@@ -391,7 +391,7 @@
           "rotationX": -0.00469147,
           "rotationY": -0.281741,
           "rotationZ": 0.959479,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -328.515,
@@ -400,7 +400,7 @@
           "rotationX": 0.000661454,
           "rotationY": -0.1686,
           "rotationZ": -0.985684,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -328.068,
@@ -409,7 +409,7 @@
           "rotationX": -0.0291011,
           "rotationY": -0.12555,
           "rotationZ": 0.99166,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 232.598,
@@ -418,7 +418,7 @@
           "rotationX": -0.388548,
           "rotationY": -0.158953,
           "rotationZ": -0.907615,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 205.56,
@@ -427,7 +427,7 @@
           "rotationX": 0.350427,
           "rotationY": -0.480335,
           "rotationZ": 0.804039,
-          "fov": 70.0
+          "fov": 70.000000
         }
       ]
     },
@@ -450,7 +450,7 @@
           "rotationX": 0.321129,
           "rotationY": -0.53783,
           "rotationZ": 0.779497,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 31.916,
@@ -459,7 +459,7 @@
           "rotationX": -0.393319,
           "rotationY": -0.50329,
           "rotationZ": 0.769415,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -0.195313,
@@ -468,7 +468,7 @@
           "rotationX": 0.00354027,
           "rotationY": -0.235999,
           "rotationZ": -0.971747,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -76.5283,
@@ -477,7 +477,7 @@
           "rotationX": 0.334854,
           "rotationY": -0.407519,
           "rotationZ": 0.849589,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 77.1406,
@@ -486,7 +486,7 @@
           "rotationX": -0.344036,
           "rotationY": -0.345991,
           "rotationZ": 0.872886,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 55.5117,
@@ -495,7 +495,7 @@
           "rotationX": -0.996676,
           "rotationY": 0.0628518,
           "rotationZ": 0.0518376,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -7.22949,
@@ -504,7 +504,7 @@
           "rotationX": 0.339466,
           "rotationY": 0.0360407,
           "rotationZ": 0.939928,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 128.916,
@@ -513,7 +513,7 @@
           "rotationX": -0.561097,
           "rotationY": -0.127737,
           "rotationZ": 0.817834,
-          "fov": 70.0
+          "fov": 70.000000
         }
       ]
     },
@@ -536,7 +536,7 @@
           "rotationX": -0.0170381,
           "rotationY": -0.0558653,
           "rotationZ": 0.998293,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -30.749,
@@ -545,7 +545,7 @@
           "rotationX": -0.0170381,
           "rotationY": -0.0558653,
           "rotationZ": 0.998293,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 73.0078,
@@ -554,7 +554,7 @@
           "rotationX": -0.219315,
           "rotationY": -0.519274,
           "rotationZ": 0.825987,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -73.3145,
@@ -563,7 +563,7 @@
           "rotationX": 0.224537,
           "rotationY": -0.551658,
           "rotationZ": 0.803279,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -6.18066,
@@ -572,7 +572,7 @@
           "rotationX": 0.76199,
           "rotationY": 0.301549,
           "rotationZ": -0.573097,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 36.0371,
@@ -581,7 +581,7 @@
           "rotationX": 0.829638,
           "rotationY": 0.0899039,
           "rotationZ": -0.551016,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 122.47,
@@ -590,7 +590,7 @@
           "rotationX": -0.22057,
           "rotationY": -0.557959,
           "rotationZ": 0.800019,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -121.075,
@@ -599,7 +599,7 @@
           "rotationX": 0.193082,
           "rotationY": -0.479578,
           "rotationZ": 0.855993,
-          "fov": 70.0
+          "fov": 70.000000
         }
       ]
     },
@@ -631,7 +631,7 @@
           "rotationX": 0.968113,
           "rotationY": -0.250227,
           "rotationZ": -0.011974,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 322.097,
@@ -640,7 +640,7 @@
           "rotationX": -0.341144,
           "rotationY": 0.417388,
           "rotationZ": 0.842263,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 269.805,
@@ -649,7 +649,7 @@
           "rotationX": 0.00634622,
           "rotationY": -0.228819,
           "rotationZ": -0.973448,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 319.085,
@@ -658,7 +658,7 @@
           "rotationX": -0.343004,
           "rotationY": -0.0250205,
           "rotationZ": -0.939,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 283.942,
@@ -667,7 +667,7 @@
           "rotationX": -0.00114541,
           "rotationY": -0.091909,
           "rotationZ": -0.995766,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 388.516,
@@ -676,7 +676,7 @@
           "rotationX": -0.0506874,
           "rotationY": -0.0884716,
           "rotationZ": -0.994788,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -154.741,
@@ -685,7 +685,7 @@
           "rotationX": 0.98929,
           "rotationY": -0.144739,
           "rotationZ": 0.0188767,
-          "fov": 70.0
+          "fov": 70.000000
         }
       ]
     },
@@ -699,7 +699,7 @@
           "rotationX": -0.0174481,
           "rotationY": -0.999848,
           "rotationZ": -0.0000284351,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -64.1504,
@@ -708,7 +708,7 @@
           "rotationX": -0.0174472,
           "rotationY": -0.999848,
           "rotationZ": -0.000178989,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -4.63867,
@@ -717,7 +717,7 @@
           "rotationX": -0.0174472,
           "rotationY": -0.999848,
           "rotationZ": 0.000173967,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -4.63867,
@@ -726,7 +726,7 @@
           "rotationX": -0.0174481,
           "rotationY": -0.999848,
           "rotationZ": -0.0000250936,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -22.0898,
@@ -735,7 +735,7 @@
           "rotationX": 0.948792,
           "rotationY": -0.315866,
           "rotationZ": 0.00482106,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 101.891,
@@ -744,7 +744,7 @@
           "rotationX": -0.944061,
           "rotationY": -0.329749,
           "rotationZ": -0.00389218,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 74.0488,
@@ -753,7 +753,7 @@
           "rotationX": -0.588305,
           "rotationY": -0.8086,
           "rotationZ": -0.00800973,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -97.8818,
@@ -762,7 +762,7 @@
           "rotationX": 0.954782,
           "rotationY": -0.295876,
           "rotationZ": 0.0291183,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -86.3115,
@@ -771,7 +771,7 @@
           "rotationX": 0.784176,
           "rotationY": -0.620283,
           "rotationZ": 0.017821,
-          "fov": 70.0
+          "fov": 70.000000
         }
       ]
     },
@@ -794,7 +794,7 @@
           "rotationX": 0.0496056,
           "rotationY": -0.579018,
           "rotationZ": -0.813805,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -21.583,
@@ -803,7 +803,7 @@
           "rotationX": -0.0448208,
           "rotationY": -0.56312,
           "rotationZ": -0.825159,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 0.110352,
@@ -812,7 +812,7 @@
           "rotationX": -0.00050186,
           "rotationY": -0.879515,
           "rotationZ": 0.475872,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 102.627,
@@ -821,7 +821,7 @@
           "rotationX": -0.873522,
           "rotationY": -0.485791,
           "rotationZ": 0.0310836,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -103.435,
@@ -830,7 +830,7 @@
           "rotationX": 0.892014,
           "rotationY": -0.452008,
           "rotationZ": -0.000598788,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 0.0400391,
@@ -839,7 +839,7 @@
           "rotationX": -0.00050186,
           "rotationY": -0.879515,
           "rotationZ": 0.475872,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 1.97949,
@@ -848,7 +848,7 @@
           "rotationX": -0.0106565,
           "rotationY": -0.180023,
           "rotationZ": 0.983605,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 35.0361,
@@ -857,7 +857,7 @@
           "rotationX": -0.643266,
           "rotationY": -0.136196,
           "rotationZ": -0.753431,
-          "fov": 70.0
+          "fov": 70.000000
         }
       ]
     },
@@ -871,7 +871,7 @@
           "rotationX": -0.0174481,
           "rotationY": -0.999848,
           "rotationZ": -0.00000501797,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -54.5361,
@@ -880,7 +880,7 @@
           "rotationX": -0.0174459,
           "rotationY": -0.999848,
           "rotationZ": -0.000274334,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -0.623047,
@@ -889,7 +889,7 @@
           "rotationX": -0.0174479,
           "rotationY": -0.999848,
           "rotationZ": -0.0000752751,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -0.866211,
@@ -898,7 +898,7 @@
           "rotationX": -0.0174479,
           "rotationY": -0.999848,
           "rotationZ": 0.0000853147,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -22.5498,
@@ -907,7 +907,7 @@
           "rotationX": 0.913086,
           "rotationY": -0.407694,
           "rotationZ": 0.00770372,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 85.0684,
@@ -916,7 +916,7 @@
           "rotationX": -0.874327,
           "rotationY": -0.485205,
           "rotationZ": 0.0113169,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 85.0039,
@@ -925,7 +925,7 @@
           "rotationX": -0.783751,
           "rotationY": -0.621035,
           "rotationZ": -0.00706339,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -92.8955,
@@ -934,7 +934,7 @@
           "rotationX": 0.670039,
           "rotationY": -0.431192,
           "rotationZ": 0.604253,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -100.718,
@@ -943,7 +943,7 @@
           "rotationX": 0.943556,
           "rotationY": -0.331197,
           "rotationZ": -0.00325656,
-          "fov": 70.0
+          "fov": 70.000000
         }
       ]
     },
@@ -975,7 +975,7 @@
           "rotationX": -0.0040056,
           "rotationY": -0.549337,
           "rotationZ": 0.835591,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -330.132,
@@ -984,7 +984,7 @@
           "rotationX": -0.0157001,
           "rotationY": -0.795024,
           "rotationZ": 0.606375,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -378.598,
@@ -993,7 +993,7 @@
           "rotationX": -0.99849,
           "rotationY": -0.0488762,
           "rotationZ": -0.0250862,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 234.269,
@@ -1002,7 +1002,7 @@
           "rotationX": -0.0154735,
           "rotationY": -0.699953,
           "rotationZ": 0.714021,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 234.006,
@@ -1011,7 +1011,7 @@
           "rotationX": -0.00148493,
           "rotationY": -0.935996,
           "rotationZ": 0.352008,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 28.1992,
@@ -1020,7 +1020,7 @@
           "rotationX": -0.0172996,
           "rotationY": -0.0778665,
           "rotationZ": 0.996814,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 34.7227,
@@ -1029,7 +1029,7 @@
           "rotationX": -0.85092,
           "rotationY": 0.11489,
           "rotationZ": -0.512576,
-          "fov": 70.0
+          "fov": 70.000000
         }
       ]
     },
@@ -1052,7 +1052,7 @@
           "rotationX": 0.889092,
           "rotationY": -0.457046,
           "rotationZ": 0.0249822,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -1.95508,
@@ -1070,7 +1070,7 @@
           "rotationX": -0.918474,
           "rotationY": -0.341039,
           "rotationZ": 0.200246,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 17.0127,
@@ -1079,7 +1079,7 @@
           "rotationX": -0.903801,
           "rotationY": -0.247349,
           "rotationZ": -0.349232,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -1.95508,
@@ -1097,7 +1097,7 @@
           "rotationX": -0.934804,
           "rotationY": -0.274466,
           "rotationZ": -0.225412,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": 16.9893,
@@ -1106,7 +1106,7 @@
           "rotationX": -0.883445,
           "rotationY": -0.234601,
           "rotationZ": 0.40557,
-          "fov": 70.0
+          "fov": 70.000000
         },
         {
           "positionX": -29.6797,
@@ -1115,7 +1115,93 @@
           "rotationX": 0.906232,
           "rotationY": 0.189728,
           "rotationZ": 0.377819,
-          "fov": 70.0
+          "fov": 70.000000
+        }
+      ]
+    },
+    {
+      "map": "Throne of Anubis",
+      "cameras": [
+        {
+          "positionX": -15.5605,
+          "positionY": 153.43,
+          "positionZ": -0.046875,
+          "rotationX": -0.0174481,
+          "rotationY": -0.999848,
+          "rotationZ": -0.000008367,
+          "fov": 44.117455
+        },
+        {
+          "positionX": -15.5605,
+          "positionY": 133.495,
+          "positionZ": 52.0137,
+          "rotationX": -0.0174481,
+          "rotationY": -0.999848,
+          "rotationZ": -0.000008367,
+          "fov": 44.117455
+        },
+        {
+          "positionX": -15.5605,
+          "positionY": 133.495,
+          "positionZ": -51.3105,
+          "rotationX": -0.0174481,
+          "rotationY": -0.999848,
+          "rotationZ": -0.000008367,
+          "fov": 44.117455
+        },
+        {
+          "positionX": 92.6377,
+          "positionY": 148.662,
+          "positionZ": 0.710938,
+          "rotationX": -0.668993,
+          "rotationY": -0.743265,
+          "rotationZ": -0.00256568,
+          "fov": 44.117455
+        },
+        {
+          "positionX": -14.3232,
+          "positionY": 9.92871,
+          "positionZ": 107.352,
+          "rotationX": -0.924629,
+          "rotationY": -0.154692,
+          "rotationZ": 0.348039,
+          "fov": 35.933941
+        },
+        {
+          "positionX": 1.65039,
+          "positionY": 10.7148,
+          "positionZ": 130.943,
+          "rotationX": 0.496581,
+          "rotationY": -0.162738,
+          "rotationZ": -0.852599,
+          "fov": 37.825203
+        },
+        {
+          "positionX": 9.66992,
+          "positionY": 5.22949,
+          "positionZ": 63.8613,
+          "rotationX": 0.104594,
+          "rotationY": -0.060938,
+          "rotationZ": -0.992646,
+          "fov": 41.911583
+        },
+        {
+          "positionX": -31.0039,
+          "positionY": 7.75781,
+          "positionZ": 70.1338,
+          "rotationX": -0.799308,
+          "rotationY": -0.0118881,
+          "rotationZ": -0.600804,
+          "fov": 48.883606
+        },
+        {
+          "positionX": -38.8057,
+          "positionY": 8.11719,
+          "positionZ": -70.2305,
+          "rotationX": 0.474996,
+          "rotationY": -0.504284,
+          "rotationZ": -0.721164,
+          "fov": 34.137245
         }
       ]
     }
