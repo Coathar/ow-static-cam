@@ -3,6 +3,17 @@ const { data } = await useFetch("/api/cams");
 const selectedPreset = ref(null);
 const selectedMapCamera = ref(null);
 
+useHead({
+  title: "Overwatch Static Cam Setup",
+});
+
+useSeoMeta({
+  title: "Overwatch Static Cam Setup",
+  ogTitle: "Overwatch Static Cam Setup",
+  description: "Utility to setup static cameras for Overwatch",
+  ogDescription: "Utility to setup static cameras for Overwatch",
+});
+
 async function exportScript() {
   if (selectedPreset.value === null || selectedMapCamera.value === null) {
     alert("Select a preset and map to export.");
