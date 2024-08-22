@@ -1,0 +1,123 @@
+settings
+{
+    lobby
+    {
+        Data Center Preference: USA - Central
+        Map Rotation: Paused
+        Max Spectators: 12
+        Pause Game On Player Disconnect: Yes
+        Return To Lobby: After A Game
+    }
+    modes
+    {
+        Skirmish
+        {
+            Limit Valid Control Points: First
+            enabled maps
+            {
+                <MapName>
+            }
+        }
+    }
+}
+variables
+{
+    global:
+        0: cameraLocations
+        1: cameraFacings
+        2: cameraFOVs
+        3: currentIndex
+        4: torb
+}
+
+rule("Initial Global")
+{
+
+    event
+    {
+        Ongoing - Global;
+    }
+
+    // Action count: 4
+    actions
+    {
+        Set Global Variable(cameraLocations, <CameraLocations>);
+        Set Global Variable(cameraFacings, <CameraFacings>);
+        Set Global Variable(cameraFOVs, <CameraFOVs>);
+        Set Global Variable(currentIndex, 0);
+    }
+}
+
+rule("Init")
+{
+
+    event
+    {
+        Ongoing - Global;
+    }
+
+    // Action count: 11
+    actions
+    {
+        Create Dummy Bot(Hero(Torbjörn), Team 1, 0, Subtract(Left, Left), Subtract(Left, Left));
+        Set Global Variable(torb, Last Created Entity);
+        Wait(0.016, Ignore Condition);
+        Set Gravity(Global Variable(torb), 0);
+        Set Invisible(Global Variable(torb), All);
+        If(Not(Is Alive(Global Variable(torb))));
+            Respawn(Global Variable(torb));
+        End;
+        Teleport(Global Variable(torb), Value In Array(Global Variable(cameraLocations), Global Variable(currentIndex)));
+        Set Facing(Global Variable(torb), Value In Array(Global Variable(cameraFacings), Global Variable(currentIndex)), To World);
+        Set Respawn Max Time(Global Variable(torb), 1000);
+    }
+}
+
+rule("Display Help Text")
+{
+
+    event
+    {
+        Ongoing - Global;
+    }
+
+    // Action count: 4
+    actions
+    {
+        Create HUD Text(Null, Null, Null, Custom String("Press Slow Down (default Shift) to setup next camera"), Right, 1, Color(White), Color(White), Color(White), Visible To Sort Order String and Color, Visible Always);
+        Create HUD Text(Null, Null, Null, Custom String("{0}{1}", Custom String("Current Camera: "), Add(Global Variable(currentIndex), 1)), Right, 1, Color(White), Color(White), Color(White), Visible To Sort Order String and Color, Visible Always);
+        Create HUD Text(Null, Null, Null, Custom String("{0}{1}", Custom String("Facing: "), Facing Direction Of(Host Player)), Right, 1, Color(White), Color(White), Color(White), Visible To Sort Order String and Color, Visible Always);
+        Create HUD Text(Null, Null, Null, Custom String("{0}{1}{2}", Custom String("Approx. "), Value In Array(Global Variable(cameraFOVs), Global Variable(currentIndex)), Custom String(" zoom ticks")), Right, 1, Color(White), Color(White), Color(White), Visible To Sort Order String and Color, Visible Always);
+    }
+}
+
+rule("Increment camera index")
+{
+
+    event
+    {
+        Ongoing - Global;
+    }
+
+    conditions
+    {
+        Is Button Held(Host Player, Button(Secondary Fire)) == True;
+    }
+
+    // Action count: 11
+    actions
+    {
+        If(Compare(Global Variable(currentIndex), <, 8));
+            Modify Global Variable(currentIndex, Add, 1);
+        Else;
+            Set Global Variable(currentIndex, 0);
+        End;
+        If(Not(Is Alive(Global Variable(torb))));
+            Respawn(Global Variable(torb));
+        End;
+        Teleport(Global Variable(torb), Value In Array(Global Variable(cameraLocations), Global Variable(currentIndex)));
+        Set Facing(Global Variable(torb), Value In Array(Global Variable(cameraFacings), Global Variable(currentIndex)), To World);
+        Set Respawn Max Time(Global Variable(torb), 1000);
+    }
+}
+

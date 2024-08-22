@@ -1,0 +1,37 @@
+{
+  "name": "Coathar",
+  "mapCameras": [
+    {
+      "map": "Busan",
+      "cameras": [
+        {
+          "positionX": 0,
+          "positionY": 0,
+          "positionZ": 0,
+          "rotationX": 0,
+          "rotationY": 0,
+          "rotationZ": 0,
+          "fov": 70
+        },
+        {
+          "positionX": 20,
+          "positionY": 20,
+          "positionZ": 20,
+          "rotationX": 5,
+          "rotationY": 1,
+          "rotationZ": 6,
+          "fov": 51
+        },
+        {
+          "positionX": 100,
+          "positionY": 100,
+          "positionZ": 100,
+          "rotationX": -5,
+          "rotationY": -1,
+          "rotationZ": -10,
+          "fov": 70
+        }
+      ]
+    }
+  ]
+}
