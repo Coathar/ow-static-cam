@@ -10,6 +10,7 @@ export default defineEventHandler(async (event) => {
     createError({ statusCode: 500, statusMessage: "No map cameras provided" });
   }
 
+  // Test
   let cameras = mapCamera.cameras.map(
     (item) =>
       new Camera(
